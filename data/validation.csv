@@ -1,0 +1,1044 @@
+,lesion_id,image_id,dx,dx_type,age,sex,localization,path,cell_type,cell_type_idx,duplicates
+0,HAM_0004666,ISIC_0029165,nv,follow_up,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0029165.jpg,Melanocytic nevi,4,unduplicated
+1,HAM_0007404,ISIC_0030295,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030295.jpg,Melanocytic nevi,4,unduplicated
+2,HAM_0000035,ISIC_0028039,nv,follow_up,20.0,male,foot,data/HAM10000_images_part_1/ISIC_0028039.jpg,Melanocytic nevi,4,unduplicated
+3,HAM_0002000,ISIC_0030092,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030092.jpg,Melanocytic nevi,4,unduplicated
+4,HAM_0007219,ISIC_0029227,bkl,consensus,70.0,male,hand,data/HAM10000_images_part_1/ISIC_0029227.jpg,Benign keratosis-like lesions ,2,unduplicated
+5,HAM_0004698,ISIC_0030127,nv,histo,60.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030127.jpg,Melanocytic nevi,4,unduplicated
+6,HAM_0005432,ISIC_0031902,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031902.jpg,Melanocytic nevi,4,unduplicated
+7,HAM_0000758,ISIC_0031974,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031974.jpg,Melanocytic nevi,4,unduplicated
+8,HAM_0003407,ISIC_0026971,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026971.jpg,Melanocytic nevi,4,unduplicated
+9,HAM_0006366,ISIC_0030732,nv,histo,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030732.jpg,Melanocytic nevi,4,unduplicated
+10,HAM_0002740,ISIC_0027246,nv,histo,30.0,male,back,data/HAM10000_images_part_1/ISIC_0027246.jpg,Melanocytic nevi,4,unduplicated
+11,HAM_0005215,ISIC_0028406,vasc,consensus,80.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028406.jpg,Vascular lesions,6,unduplicated
+12,HAM_0003435,ISIC_0031350,mel,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0031350.jpg,Melanoma,5,unduplicated
+13,HAM_0004539,ISIC_0025617,bcc,histo,40.0,female,face,data/HAM10000_images_part_1/ISIC_0025617.jpg,Basal cell carcinoma,1,unduplicated
+14,HAM_0000635,ISIC_0028663,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028663.jpg,Melanocytic nevi,4,unduplicated
+15,HAM_0002393,ISIC_0026879,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026879.jpg,Melanocytic nevi,4,unduplicated
+16,HAM_0003647,ISIC_0028840,bkl,histo,60.0,male,chest,data/HAM10000_images_part_1/ISIC_0028840.jpg,Benign keratosis-like lesions ,2,unduplicated
+17,HAM_0004674,ISIC_0027252,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027252.jpg,Melanocytic nevi,4,unduplicated
+18,HAM_0000412,ISIC_0032706,nv,consensus,70.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032706.jpg,Melanocytic nevi,4,unduplicated
+19,HAM_0006707,ISIC_0030870,df,consensus,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030870.jpg,Dermatofibroma,3,unduplicated
+20,HAM_0007529,ISIC_0026607,bkl,histo,50.0,male,chest,data/HAM10000_images_part_1/ISIC_0026607.jpg,Benign keratosis-like lesions ,2,unduplicated
+21,HAM_0003581,ISIC_0030051,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030051.jpg,Melanocytic nevi,4,unduplicated
+22,HAM_0004074,ISIC_0030599,nv,follow_up,45.0,female,back,data/HAM10000_images_part_2/ISIC_0030599.jpg,Melanocytic nevi,4,unduplicated
+23,HAM_0007403,ISIC_0025440,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025440.jpg,Melanocytic nevi,4,unduplicated
+24,HAM_0000386,ISIC_0026787,bkl,histo,65.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026787.jpg,Benign keratosis-like lesions ,2,unduplicated
+25,HAM_0000631,ISIC_0030885,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030885.jpg,Melanocytic nevi,4,unduplicated
+26,HAM_0000560,ISIC_0031509,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031509.jpg,Melanocytic nevi,4,unduplicated
+27,HAM_0001060,ISIC_0024405,nv,follow_up,45.0,male,foot,data/HAM10000_images_part_1/ISIC_0024405.jpg,Melanocytic nevi,4,unduplicated
+28,HAM_0003114,ISIC_0032091,nv,follow_up,45.0,female,back,data/HAM10000_images_part_2/ISIC_0032091.jpg,Melanocytic nevi,4,unduplicated
+29,HAM_0000256,ISIC_0029347,nv,follow_up,50.0,male,back,data/HAM10000_images_part_2/ISIC_0029347.jpg,Melanocytic nevi,4,unduplicated
+30,HAM_0007535,ISIC_0024829,bcc,histo,75.0,male,neck,data/HAM10000_images_part_1/ISIC_0024829.jpg,Basal cell carcinoma,1,unduplicated
+31,HAM_0003582,ISIC_0027332,bkl,consensus,70.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027332.jpg,Benign keratosis-like lesions ,2,unduplicated
+32,HAM_0002267,ISIC_0026937,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026937.jpg,Melanocytic nevi,4,unduplicated
+33,HAM_0003636,ISIC_0027124,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027124.jpg,Melanocytic nevi,4,unduplicated
+34,HAM_0000732,ISIC_0026183,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026183.jpg,Melanocytic nevi,4,unduplicated
+35,HAM_0001013,ISIC_0031533,nv,follow_up,75.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031533.jpg,Melanocytic nevi,4,unduplicated
+36,HAM_0001402,ISIC_0031558,bkl,consensus,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031558.jpg,Benign keratosis-like lesions ,2,unduplicated
+37,HAM_0005416,ISIC_0029136,nv,follow_up,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0029136.jpg,Melanocytic nevi,4,unduplicated
+38,HAM_0005613,ISIC_0030564,mel,histo,45.0,male,face,data/HAM10000_images_part_2/ISIC_0030564.jpg,Melanoma,5,unduplicated
+39,HAM_0003054,ISIC_0027945,nv,histo,35.0,female,back,data/HAM10000_images_part_1/ISIC_0027945.jpg,Melanocytic nevi,4,unduplicated
+40,HAM_0004211,ISIC_0034082,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034082.jpg,Melanocytic nevi,4,unduplicated
+41,HAM_0005586,ISIC_0024415,nv,follow_up,45.0,female,back,data/HAM10000_images_part_1/ISIC_0024415.jpg,Melanocytic nevi,4,unduplicated
+42,HAM_0005818,ISIC_0032427,nv,histo,50.0,male,back,data/HAM10000_images_part_2/ISIC_0032427.jpg,Melanocytic nevi,4,unduplicated
+43,HAM_0000459,ISIC_0026584,nv,histo,75.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026584.jpg,Melanocytic nevi,4,unduplicated
+44,HAM_0000319,ISIC_0029209,mel,histo,50.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0029209.jpg,Melanoma,5,unduplicated
+45,HAM_0000642,ISIC_0026520,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026520.jpg,Melanocytic nevi,4,unduplicated
+46,HAM_0000055,ISIC_0033546,mel,histo,40.0,female,back,data/HAM10000_images_part_2/ISIC_0033546.jpg,Melanoma,5,unduplicated
+47,HAM_0002921,ISIC_0029308,bkl,histo,60.0,female,face,data/HAM10000_images_part_2/ISIC_0029308.jpg,Benign keratosis-like lesions ,2,unduplicated
+48,HAM_0003635,ISIC_0024801,nv,follow_up,35.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0024801.jpg,Melanocytic nevi,4,unduplicated
+49,HAM_0004093,ISIC_0030562,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030562.jpg,Melanocytic nevi,4,unduplicated
+50,HAM_0004299,ISIC_0031307,nv,follow_up,65.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031307.jpg,Melanocytic nevi,4,unduplicated
+51,HAM_0001631,ISIC_0025390,nv,follow_up,50.0,female,genital,data/HAM10000_images_part_1/ISIC_0025390.jpg,Melanocytic nevi,4,unduplicated
+52,HAM_0004402,ISIC_0025397,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025397.jpg,Melanocytic nevi,4,unduplicated
+53,HAM_0006202,ISIC_0030627,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030627.jpg,Melanocytic nevi,4,unduplicated
+54,HAM_0000472,ISIC_0028339,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0028339.jpg,Melanocytic nevi,4,unduplicated
+55,HAM_0003456,ISIC_0025077,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025077.jpg,Melanocytic nevi,4,unduplicated
+56,HAM_0002191,ISIC_0028278,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028278.jpg,Melanocytic nevi,4,unduplicated
+57,HAM_0006589,ISIC_0031187,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031187.jpg,Melanocytic nevi,4,unduplicated
+58,HAM_0001178,ISIC_0031570,akiec,histo,70.0,female,back,data/HAM10000_images_part_2/ISIC_0031570.jpg,Actinic keratoses,0,unduplicated
+59,HAM_0007174,ISIC_0031052,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031052.jpg,Melanocytic nevi,4,unduplicated
+60,HAM_0001776,ISIC_0030044,nv,follow_up,25.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030044.jpg,Melanocytic nevi,4,unduplicated
+61,HAM_0003116,ISIC_0030453,nv,follow_up,30.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030453.jpg,Melanocytic nevi,4,unduplicated
+62,HAM_0006450,ISIC_0028724,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028724.jpg,Melanocytic nevi,4,unduplicated
+63,HAM_0001111,ISIC_0026209,nv,histo,70.0,male,back,data/HAM10000_images_part_1/ISIC_0026209.jpg,Melanocytic nevi,4,unduplicated
+64,HAM_0001207,ISIC_0032436,nv,histo,50.0,female,back,data/HAM10000_images_part_2/ISIC_0032436.jpg,Melanocytic nevi,4,unduplicated
+65,HAM_0003307,ISIC_0031147,nv,follow_up,35.0,female,foot,data/HAM10000_images_part_2/ISIC_0031147.jpg,Melanocytic nevi,4,unduplicated
+66,HAM_0003553,ISIC_0026469,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026469.jpg,Melanocytic nevi,4,unduplicated
+67,HAM_0002130,ISIC_0029570,mel,histo,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029570.jpg,Melanoma,5,unduplicated
+68,HAM_0007072,ISIC_0032339,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032339.jpg,Melanocytic nevi,4,unduplicated
+69,HAM_0002819,ISIC_0024467,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024467.jpg,Melanocytic nevi,4,unduplicated
+70,HAM_0000507,ISIC_0028921,nv,follow_up,75.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028921.jpg,Melanocytic nevi,4,unduplicated
+71,HAM_0006690,ISIC_0028942,nv,follow_up,55.0,female,unknown,data/HAM10000_images_part_1/ISIC_0028942.jpg,Melanocytic nevi,4,unduplicated
+72,HAM_0004081,ISIC_0031957,mel,histo,70.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031957.jpg,Melanoma,5,unduplicated
+73,HAM_0006247,ISIC_0031393,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031393.jpg,Melanocytic nevi,4,unduplicated
+74,HAM_0004078,ISIC_0026566,bkl,consensus,70.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026566.jpg,Benign keratosis-like lesions ,2,unduplicated
+75,HAM_0005408,ISIC_0031613,nv,histo,65.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031613.jpg,Melanocytic nevi,4,unduplicated
+76,HAM_0000196,ISIC_0032377,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032377.jpg,Melanocytic nevi,4,unduplicated
+77,HAM_0002388,ISIC_0025200,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025200.jpg,Melanocytic nevi,4,unduplicated
+78,HAM_0003806,ISIC_0028667,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028667.jpg,Melanocytic nevi,4,unduplicated
+79,HAM_0004468,ISIC_0030480,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030480.jpg,Melanocytic nevi,4,unduplicated
+80,HAM_0000682,ISIC_0030786,nv,histo,45.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030786.jpg,Melanocytic nevi,4,unduplicated
+81,HAM_0003108,ISIC_0027166,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027166.jpg,Melanocytic nevi,4,unduplicated
+82,HAM_0007455,ISIC_0027441,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027441.jpg,Melanocytic nevi,4,unduplicated
+83,HAM_0000399,ISIC_0027599,nv,follow_up,60.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027599.jpg,Melanocytic nevi,4,unduplicated
+84,HAM_0001340,ISIC_0025290,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025290.jpg,Melanocytic nevi,4,unduplicated
+85,HAM_0004510,ISIC_0031110,nv,follow_up,60.0,male,back,data/HAM10000_images_part_2/ISIC_0031110.jpg,Melanocytic nevi,4,unduplicated
+86,HAM_0000649,ISIC_0027276,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027276.jpg,Melanocytic nevi,4,unduplicated
+87,HAM_0007050,ISIC_0027160,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027160.jpg,Melanocytic nevi,4,unduplicated
+88,HAM_0005217,ISIC_0025057,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025057.jpg,Melanocytic nevi,4,unduplicated
+89,HAM_0005354,ISIC_0026625,akiec,histo,60.0,male,face,data/HAM10000_images_part_1/ISIC_0026625.jpg,Actinic keratoses,0,unduplicated
+90,HAM_0003151,ISIC_0024556,nv,follow_up,50.0,female,foot,data/HAM10000_images_part_1/ISIC_0024556.jpg,Melanocytic nevi,4,unduplicated
+91,HAM_0007129,ISIC_0027216,df,consensus,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027216.jpg,Dermatofibroma,3,unduplicated
+92,HAM_0000697,ISIC_0029148,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0029148.jpg,Melanocytic nevi,4,unduplicated
+93,HAM_0003032,ISIC_0028789,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028789.jpg,Melanocytic nevi,4,unduplicated
+94,HAM_0006660,ISIC_0025055,nv,follow_up,45.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025055.jpg,Melanocytic nevi,4,unduplicated
+95,HAM_0006630,ISIC_0032063,bkl,histo,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032063.jpg,Benign keratosis-like lesions ,2,unduplicated
+96,HAM_0006998,ISIC_0030993,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030993.jpg,Melanocytic nevi,4,unduplicated
+97,HAM_0002293,ISIC_0027351,nv,histo,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027351.jpg,Melanocytic nevi,4,unduplicated
+98,HAM_0004316,ISIC_0025116,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025116.jpg,Melanocytic nevi,4,unduplicated
+99,HAM_0001538,ISIC_0024322,nv,follow_up,65.0,female,foot,data/HAM10000_images_part_1/ISIC_0024322.jpg,Melanocytic nevi,4,unduplicated
+100,HAM_0002962,ISIC_0028331,bkl,consensus,80.0,male,back,data/HAM10000_images_part_1/ISIC_0028331.jpg,Benign keratosis-like lesions ,2,unduplicated
+101,HAM_0006384,ISIC_0031272,bcc,histo,80.0,male,face,data/HAM10000_images_part_2/ISIC_0031272.jpg,Basal cell carcinoma,1,unduplicated
+102,HAM_0007377,ISIC_0029695,nv,follow_up,55.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0029695.jpg,Melanocytic nevi,4,unduplicated
+103,HAM_0006400,ISIC_0031741,mel,histo,45.0,female,back,data/HAM10000_images_part_2/ISIC_0031741.jpg,Melanoma,5,unduplicated
+104,HAM_0004388,ISIC_0027135,bcc,histo,60.0,male,back,data/HAM10000_images_part_1/ISIC_0027135.jpg,Basal cell carcinoma,1,unduplicated
+105,HAM_0006456,ISIC_0032305,nv,histo,65.0,male,back,data/HAM10000_images_part_2/ISIC_0032305.jpg,Melanocytic nevi,4,unduplicated
+106,HAM_0002225,ISIC_0032066,nv,follow_up,60.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0032066.jpg,Melanocytic nevi,4,unduplicated
+107,HAM_0005179,ISIC_0024957,nv,follow_up,80.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024957.jpg,Melanocytic nevi,4,unduplicated
+108,HAM_0004100,ISIC_0031106,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031106.jpg,Melanocytic nevi,4,unduplicated
+109,HAM_0001216,ISIC_0026499,nv,follow_up,40.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0026499.jpg,Melanocytic nevi,4,unduplicated
+110,HAM_0001155,ISIC_0032987,mel,histo,70.0,male,face,data/HAM10000_images_part_2/ISIC_0032987.jpg,Melanoma,5,unduplicated
+111,HAM_0007073,ISIC_0025035,mel,histo,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025035.jpg,Melanoma,5,unduplicated
+112,HAM_0005518,ISIC_0032410,df,histo,30.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032410.jpg,Dermatofibroma,3,unduplicated
+113,HAM_0002094,ISIC_0030549,akiec,histo,50.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030549.jpg,Actinic keratoses,0,unduplicated
+114,HAM_0001979,ISIC_0027527,bkl,histo,55.0,male,face,data/HAM10000_images_part_1/ISIC_0027527.jpg,Benign keratosis-like lesions ,2,unduplicated
+115,HAM_0007420,ISIC_0031890,mel,histo,85.0,male,face,data/HAM10000_images_part_2/ISIC_0031890.jpg,Melanoma,5,unduplicated
+116,HAM_0004549,ISIC_0031201,vasc,consensus,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031201.jpg,Vascular lesions,6,unduplicated
+117,HAM_0007628,ISIC_0027059,nv,follow_up,60.0,female,back,data/HAM10000_images_part_1/ISIC_0027059.jpg,Melanocytic nevi,4,unduplicated
+118,HAM_0006370,ISIC_0026032,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026032.jpg,Melanocytic nevi,4,unduplicated
+119,HAM_0001876,ISIC_0030470,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030470.jpg,Melanocytic nevi,4,unduplicated
+120,HAM_0000942,ISIC_0028554,nv,follow_up,75.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0028554.jpg,Melanocytic nevi,4,unduplicated
+121,HAM_0001709,ISIC_0030364,nv,follow_up,45.0,female,back,data/HAM10000_images_part_2/ISIC_0030364.jpg,Melanocytic nevi,4,unduplicated
+122,HAM_0000663,ISIC_0027761,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027761.jpg,Melanocytic nevi,4,unduplicated
+123,HAM_0006960,ISIC_0027592,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027592.jpg,Melanocytic nevi,4,unduplicated
+124,HAM_0004487,ISIC_0028989,bcc,histo,65.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028989.jpg,Basal cell carcinoma,1,unduplicated
+125,HAM_0001508,ISIC_0029298,nv,histo,65.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029298.jpg,Melanocytic nevi,4,unduplicated
+126,HAM_0005039,ISIC_0024320,nv,follow_up,65.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024320.jpg,Melanocytic nevi,4,unduplicated
+127,HAM_0004450,ISIC_0028868,nv,histo,30.0,male,chest,data/HAM10000_images_part_1/ISIC_0028868.jpg,Melanocytic nevi,4,unduplicated
+128,HAM_0003096,ISIC_0031793,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031793.jpg,Melanocytic nevi,4,unduplicated
+129,HAM_0006143,ISIC_0032168,bkl,histo,60.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032168.jpg,Benign keratosis-like lesions ,2,unduplicated
+130,HAM_0002535,ISIC_0027754,bkl,histo,50.0,female,face,data/HAM10000_images_part_1/ISIC_0027754.jpg,Benign keratosis-like lesions ,2,unduplicated
+131,HAM_0000946,ISIC_0031775,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031775.jpg,Melanocytic nevi,4,unduplicated
+132,HAM_0003012,ISIC_0029375,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029375.jpg,Melanocytic nevi,4,unduplicated
+133,HAM_0003739,ISIC_0026675,bkl,histo,35.0,female,face,data/HAM10000_images_part_1/ISIC_0026675.jpg,Benign keratosis-like lesions ,2,unduplicated
+134,HAM_0006401,ISIC_0031451,nv,histo,45.0,female,foot,data/HAM10000_images_part_2/ISIC_0031451.jpg,Melanocytic nevi,4,unduplicated
+135,HAM_0006790,ISIC_0028625,nv,histo,65.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0028625.jpg,Melanocytic nevi,4,unduplicated
+136,HAM_0004425,ISIC_0025147,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025147.jpg,Melanocytic nevi,4,unduplicated
+137,HAM_0001550,ISIC_0026020,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026020.jpg,Melanocytic nevi,4,unduplicated
+138,HAM_0005766,ISIC_0031738,akiec,histo,85.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031738.jpg,Actinic keratoses,0,unduplicated
+139,HAM_0006487,ISIC_0028617,nv,follow_up,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028617.jpg,Melanocytic nevi,4,unduplicated
+140,HAM_0000325,ISIC_0029832,nv,follow_up,35.0,male,back,data/HAM10000_images_part_2/ISIC_0029832.jpg,Melanocytic nevi,4,unduplicated
+141,HAM_0002667,ISIC_0024388,nv,follow_up,30.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024388.jpg,Melanocytic nevi,4,unduplicated
+142,HAM_0002110,ISIC_0026782,nv,histo,30.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026782.jpg,Melanocytic nevi,4,unduplicated
+143,HAM_0001079,ISIC_0031371,nv,follow_up,55.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031371.jpg,Melanocytic nevi,4,unduplicated
+144,HAM_0002793,ISIC_0029953,nv,histo,10.0,male,genital,data/HAM10000_images_part_2/ISIC_0029953.jpg,Melanocytic nevi,4,unduplicated
+145,HAM_0004329,ISIC_0027866,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027866.jpg,Melanocytic nevi,4,unduplicated
+146,HAM_0004351,ISIC_0034193,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034193.jpg,Melanocytic nevi,4,unduplicated
+147,HAM_0001678,ISIC_0027831,bkl,consensus,60.0,male,face,data/HAM10000_images_part_1/ISIC_0027831.jpg,Benign keratosis-like lesions ,2,unduplicated
+148,HAM_0002195,ISIC_0031576,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031576.jpg,Melanocytic nevi,4,unduplicated
+149,HAM_0003190,ISIC_0030571,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030571.jpg,Melanocytic nevi,4,unduplicated
+150,HAM_0000627,ISIC_0034019,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0034019.jpg,Melanocytic nevi,4,unduplicated
+151,HAM_0001096,ISIC_0026932,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0026932.jpg,Melanocytic nevi,4,unduplicated
+152,HAM_0005001,ISIC_0031438,nv,follow_up,55.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031438.jpg,Melanocytic nevi,4,unduplicated
+153,HAM_0001906,ISIC_0032025,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032025.jpg,Melanocytic nevi,4,unduplicated
+154,HAM_0004378,ISIC_0025738,nv,follow_up,5.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025738.jpg,Melanocytic nevi,4,unduplicated
+155,HAM_0001932,ISIC_0031082,nv,follow_up,70.0,male,genital,data/HAM10000_images_part_2/ISIC_0031082.jpg,Melanocytic nevi,4,unduplicated
+156,HAM_0001195,ISIC_0031161,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031161.jpg,Melanocytic nevi,4,unduplicated
+157,HAM_0003977,ISIC_0026495,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026495.jpg,Melanocytic nevi,4,unduplicated
+158,HAM_0002917,ISIC_0032506,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0032506.jpg,Melanocytic nevi,4,unduplicated
+159,HAM_0005076,ISIC_0024404,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024404.jpg,Melanocytic nevi,4,unduplicated
+160,HAM_0000714,ISIC_0027857,nv,follow_up,55.0,female,back,data/HAM10000_images_part_1/ISIC_0027857.jpg,Melanocytic nevi,4,unduplicated
+161,HAM_0003205,ISIC_0031287,bkl,histo,75.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031287.jpg,Benign keratosis-like lesions ,2,unduplicated
+162,HAM_0004215,ISIC_0034302,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034302.jpg,Melanocytic nevi,4,unduplicated
+163,HAM_0006557,ISIC_0025334,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025334.jpg,Melanocytic nevi,4,unduplicated
+164,HAM_0003508,ISIC_0030319,bkl,histo,85.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030319.jpg,Benign keratosis-like lesions ,2,unduplicated
+165,HAM_0002643,ISIC_0030017,nv,follow_up,80.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030017.jpg,Melanocytic nevi,4,unduplicated
+166,HAM_0002156,ISIC_0024802,nv,follow_up,65.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024802.jpg,Melanocytic nevi,4,unduplicated
+167,HAM_0000723,ISIC_0031364,nv,follow_up,35.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031364.jpg,Melanocytic nevi,4,unduplicated
+168,HAM_0002022,ISIC_0026579,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0026579.jpg,Melanocytic nevi,4,unduplicated
+169,HAM_0002516,ISIC_0028315,nv,follow_up,35.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028315.jpg,Melanocytic nevi,4,unduplicated
+170,HAM_0005527,ISIC_0031819,bkl,histo,50.0,male,unknown,data/HAM10000_images_part_2/ISIC_0031819.jpg,Benign keratosis-like lesions ,2,unduplicated
+171,HAM_0002813,ISIC_0030751,nv,follow_up,55.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030751.jpg,Melanocytic nevi,4,unduplicated
+172,HAM_0006762,ISIC_0029467,nv,follow_up,60.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029467.jpg,Melanocytic nevi,4,unduplicated
+173,HAM_0005493,ISIC_0028535,nv,follow_up,40.0,female,back,data/HAM10000_images_part_1/ISIC_0028535.jpg,Melanocytic nevi,4,unduplicated
+174,HAM_0007514,ISIC_0028118,nv,histo,80.0,male,back,data/HAM10000_images_part_1/ISIC_0028118.jpg,Melanocytic nevi,4,unduplicated
+175,HAM_0006117,ISIC_0025566,nv,follow_up,35.0,female,back,data/HAM10000_images_part_1/ISIC_0025566.jpg,Melanocytic nevi,4,unduplicated
+176,HAM_0004035,ISIC_0027039,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027039.jpg,Melanocytic nevi,4,unduplicated
+177,HAM_0001020,ISIC_0030912,nv,histo,70.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030912.jpg,Melanocytic nevi,4,unduplicated
+178,HAM_0001786,ISIC_0027047,akiec,histo,70.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0027047.jpg,Actinic keratoses,0,unduplicated
+179,HAM_0006332,ISIC_0029822,nv,follow_up,35.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0029822.jpg,Melanocytic nevi,4,unduplicated
+180,HAM_0003540,ISIC_0029808,nv,consensus,75.0,male,back,data/HAM10000_images_part_2/ISIC_0029808.jpg,Melanocytic nevi,4,unduplicated
+181,HAM_0002884,ISIC_0028251,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028251.jpg,Melanocytic nevi,4,unduplicated
+182,HAM_0002282,ISIC_0034045,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0034045.jpg,Melanocytic nevi,4,unduplicated
+183,HAM_0003022,ISIC_0025551,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025551.jpg,Melanocytic nevi,4,unduplicated
+184,HAM_0000022,ISIC_0031377,mel,histo,65.0,male,back,data/HAM10000_images_part_2/ISIC_0031377.jpg,Melanoma,5,unduplicated
+185,HAM_0007045,ISIC_0032088,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032088.jpg,Melanocytic nevi,4,unduplicated
+186,HAM_0002619,ISIC_0025435,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025435.jpg,Melanocytic nevi,4,unduplicated
+187,HAM_0000235,ISIC_0025910,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025910.jpg,Melanocytic nevi,4,unduplicated
+188,HAM_0007254,ISIC_0027541,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027541.jpg,Melanocytic nevi,4,unduplicated
+189,HAM_0003086,ISIC_0032349,akiec,histo,60.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032349.jpg,Actinic keratoses,0,unduplicated
+190,HAM_0001659,ISIC_0026564,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026564.jpg,Melanocytic nevi,4,unduplicated
+191,HAM_0004454,ISIC_0029834,nv,follow_up,25.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029834.jpg,Melanocytic nevi,4,unduplicated
+192,HAM_0006198,ISIC_0028676,nv,follow_up,60.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028676.jpg,Melanocytic nevi,4,unduplicated
+193,HAM_0002107,ISIC_0028857,nv,histo,85.0,male,back,data/HAM10000_images_part_1/ISIC_0028857.jpg,Melanocytic nevi,4,unduplicated
+194,HAM_0002564,ISIC_0029626,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029626.jpg,Melanocytic nevi,4,unduplicated
+195,HAM_0004874,ISIC_0032160,nv,follow_up,65.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0032160.jpg,Melanocytic nevi,4,unduplicated
+196,HAM_0005461,ISIC_0027699,nv,follow_up,65.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027699.jpg,Melanocytic nevi,4,unduplicated
+197,HAM_0001282,ISIC_0028269,nv,follow_up,45.0,female,back,data/HAM10000_images_part_1/ISIC_0028269.jpg,Melanocytic nevi,4,unduplicated
+198,HAM_0005283,ISIC_0030418,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030418.jpg,Melanocytic nevi,4,unduplicated
+199,HAM_0003867,ISIC_0028425,nv,histo,25.0,female,unknown,data/HAM10000_images_part_1/ISIC_0028425.jpg,Melanocytic nevi,4,unduplicated
+200,HAM_0000624,ISIC_0029089,mel,histo,70.0,male,back,data/HAM10000_images_part_1/ISIC_0029089.jpg,Melanoma,5,unduplicated
+201,HAM_0004851,ISIC_0031219,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031219.jpg,Melanocytic nevi,4,unduplicated
+202,HAM_0004544,ISIC_0031099,nv,follow_up,50.0,male,foot,data/HAM10000_images_part_2/ISIC_0031099.jpg,Melanocytic nevi,4,unduplicated
+203,HAM_0006199,ISIC_0024888,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0024888.jpg,Melanocytic nevi,4,unduplicated
+204,HAM_0006531,ISIC_0027681,bkl,histo,85.0,male,face,data/HAM10000_images_part_1/ISIC_0027681.jpg,Benign keratosis-like lesions ,2,unduplicated
+205,HAM_0003761,ISIC_0025316,mel,histo,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025316.jpg,Melanoma,5,unduplicated
+206,HAM_0007466,ISIC_0031355,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031355.jpg,Melanocytic nevi,4,unduplicated
+207,HAM_0003168,ISIC_0026228,nv,follow_up,55.0,female,back,data/HAM10000_images_part_1/ISIC_0026228.jpg,Melanocytic nevi,4,unduplicated
+208,HAM_0006973,ISIC_0029377,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029377.jpg,Melanocytic nevi,4,unduplicated
+209,HAM_0004263,ISIC_0031781,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031781.jpg,Melanocytic nevi,4,unduplicated
+210,HAM_0006020,ISIC_0029572,nv,histo,55.0,male,back,data/HAM10000_images_part_2/ISIC_0029572.jpg,Melanocytic nevi,4,unduplicated
+211,HAM_0002963,ISIC_0032435,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032435.jpg,Melanocytic nevi,4,unduplicated
+212,HAM_0004032,ISIC_0032403,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032403.jpg,Melanocytic nevi,4,unduplicated
+213,HAM_0001307,ISIC_0025041,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025041.jpg,Melanocytic nevi,4,unduplicated
+214,HAM_0004209,ISIC_0034075,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034075.jpg,Melanocytic nevi,4,unduplicated
+215,HAM_0002053,ISIC_0028715,nv,histo,60.0,female,chest,data/HAM10000_images_part_1/ISIC_0028715.jpg,Melanocytic nevi,4,unduplicated
+216,HAM_0001983,ISIC_0030377,bkl,histo,70.0,male,back,data/HAM10000_images_part_2/ISIC_0030377.jpg,Benign keratosis-like lesions ,2,unduplicated
+217,HAM_0002461,ISIC_0025953,akiec,histo,65.0,male,face,data/HAM10000_images_part_1/ISIC_0025953.jpg,Actinic keratoses,0,unduplicated
+218,HAM_0006388,ISIC_0029542,nv,follow_up,65.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029542.jpg,Melanocytic nevi,4,unduplicated
+219,HAM_0006504,ISIC_0031098,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031098.jpg,Melanocytic nevi,4,unduplicated
+220,HAM_0000980,ISIC_0028627,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028627.jpg,Melanocytic nevi,4,unduplicated
+221,HAM_0004541,ISIC_0028838,nv,follow_up,65.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028838.jpg,Melanocytic nevi,4,unduplicated
+222,HAM_0000878,ISIC_0028746,mel,histo,70.0,male,back,data/HAM10000_images_part_1/ISIC_0028746.jpg,Melanoma,5,unduplicated
+223,HAM_0007506,ISIC_0029403,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029403.jpg,Melanocytic nevi,4,unduplicated
+224,HAM_0003822,ISIC_0030115,nv,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0030115.jpg,Melanocytic nevi,4,unduplicated
+225,HAM_0003536,ISIC_0028819,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0028819.jpg,Melanocytic nevi,4,unduplicated
+226,HAM_0002929,ISIC_0032068,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032068.jpg,Melanocytic nevi,4,unduplicated
+227,HAM_0001401,ISIC_0031729,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031729.jpg,Melanocytic nevi,4,unduplicated
+228,HAM_0003814,ISIC_0032647,nv,consensus,40.0,male,unknown,data/HAM10000_images_part_2/ISIC_0032647.jpg,Melanocytic nevi,4,unduplicated
+229,HAM_0002982,ISIC_0031423,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031423.jpg,Melanocytic nevi,4,unduplicated
+230,HAM_0004885,ISIC_0030570,nv,follow_up,5.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030570.jpg,Melanocytic nevi,4,unduplicated
+231,HAM_0006394,ISIC_0027635,nv,follow_up,50.0,male,foot,data/HAM10000_images_part_1/ISIC_0027635.jpg,Melanocytic nevi,4,unduplicated
+232,HAM_0006957,ISIC_0028402,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028402.jpg,Melanocytic nevi,4,unduplicated
+233,HAM_0002673,ISIC_0027686,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027686.jpg,Melanocytic nevi,4,unduplicated
+234,HAM_0003879,ISIC_0024894,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0024894.jpg,Melanocytic nevi,4,unduplicated
+235,HAM_0003613,ISIC_0030118,bkl,histo,80.0,female,back,data/HAM10000_images_part_2/ISIC_0030118.jpg,Benign keratosis-like lesions ,2,unduplicated
+236,HAM_0006996,ISIC_0027610,nv,follow_up,55.0,male,back,data/HAM10000_images_part_1/ISIC_0027610.jpg,Melanocytic nevi,4,unduplicated
+237,HAM_0006363,ISIC_0024936,nv,histo,25.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024936.jpg,Melanocytic nevi,4,unduplicated
+238,HAM_0001656,ISIC_0026759,nv,histo,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026759.jpg,Melanocytic nevi,4,unduplicated
+239,HAM_0002562,ISIC_0025024,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025024.jpg,Melanocytic nevi,4,unduplicated
+240,HAM_0006917,ISIC_0025861,nv,follow_up,30.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025861.jpg,Melanocytic nevi,4,unduplicated
+241,HAM_0006930,ISIC_0027818,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027818.jpg,Melanocytic nevi,4,unduplicated
+242,HAM_0000743,ISIC_0024661,nv,follow_up,55.0,female,back,data/HAM10000_images_part_1/ISIC_0024661.jpg,Melanocytic nevi,4,unduplicated
+243,HAM_0001086,ISIC_0030499,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030499.jpg,Melanocytic nevi,4,unduplicated
+244,HAM_0002947,ISIC_0031589,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031589.jpg,Melanocytic nevi,4,unduplicated
+245,HAM_0001924,ISIC_0031112,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031112.jpg,Melanocytic nevi,4,unduplicated
+246,HAM_0001493,ISIC_0032373,bkl,histo,70.0,female,chest,data/HAM10000_images_part_2/ISIC_0032373.jpg,Benign keratosis-like lesions ,2,unduplicated
+247,HAM_0000620,ISIC_0027414,nv,follow_up,30.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027414.jpg,Melanocytic nevi,4,unduplicated
+248,HAM_0005341,ISIC_0031882,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031882.jpg,Melanocytic nevi,4,unduplicated
+249,HAM_0002496,ISIC_0030861,nv,follow_up,75.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030861.jpg,Melanocytic nevi,4,unduplicated
+250,HAM_0006758,ISIC_0029234,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0029234.jpg,Melanocytic nevi,4,unduplicated
+251,HAM_0000529,ISIC_0030540,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030540.jpg,Melanocytic nevi,4,unduplicated
+252,HAM_0000359,ISIC_0025701,nv,follow_up,35.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025701.jpg,Melanocytic nevi,4,unduplicated
+253,HAM_0002944,ISIC_0028135,nv,histo,45.0,female,back,data/HAM10000_images_part_1/ISIC_0028135.jpg,Melanocytic nevi,4,unduplicated
+254,HAM_0003543,ISIC_0030040,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030040.jpg,Melanocytic nevi,4,unduplicated
+255,HAM_0001823,ISIC_0027882,nv,follow_up,40.0,male,back,data/HAM10000_images_part_1/ISIC_0027882.jpg,Melanocytic nevi,4,unduplicated
+256,HAM_0005906,ISIC_0025609,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025609.jpg,Melanocytic nevi,4,unduplicated
+257,HAM_0005208,ISIC_0028781,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028781.jpg,Melanocytic nevi,4,unduplicated
+258,HAM_0001439,ISIC_0024442,nv,follow_up,55.0,female,foot,data/HAM10000_images_part_1/ISIC_0024442.jpg,Melanocytic nevi,4,unduplicated
+259,HAM_0007246,ISIC_0024764,nv,follow_up,55.0,female,foot,data/HAM10000_images_part_1/ISIC_0024764.jpg,Melanocytic nevi,4,unduplicated
+260,HAM_0006831,ISIC_0030545,nv,follow_up,70.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030545.jpg,Melanocytic nevi,4,unduplicated
+261,HAM_0004797,ISIC_0024895,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0024895.jpg,Melanocytic nevi,4,unduplicated
+262,HAM_0004339,ISIC_0026332,nv,follow_up,75.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026332.jpg,Melanocytic nevi,4,unduplicated
+263,HAM_0004522,ISIC_0028381,akiec,histo,55.0,female,neck,data/HAM10000_images_part_1/ISIC_0028381.jpg,Actinic keratoses,0,unduplicated
+264,HAM_0003592,ISIC_0031416,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031416.jpg,Melanocytic nevi,4,unduplicated
+265,HAM_0006612,ISIC_0031426,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031426.jpg,Melanocytic nevi,4,unduplicated
+266,HAM_0004197,ISIC_0033467,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0033467.jpg,Melanocytic nevi,4,unduplicated
+267,HAM_0007230,ISIC_0031164,nv,follow_up,30.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031164.jpg,Melanocytic nevi,4,unduplicated
+268,HAM_0004538,ISIC_0029273,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0029273.jpg,Melanocytic nevi,4,unduplicated
+269,HAM_0006609,ISIC_0031266,bcc,histo,80.0,male,back,data/HAM10000_images_part_2/ISIC_0031266.jpg,Basal cell carcinoma,1,unduplicated
+270,HAM_0002411,ISIC_0025946,nv,histo,60.0,female,neck,data/HAM10000_images_part_1/ISIC_0025946.jpg,Melanocytic nevi,4,unduplicated
+271,HAM_0002977,ISIC_0025629,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025629.jpg,Melanocytic nevi,4,unduplicated
+272,HAM_0002506,ISIC_0029337,bcc,histo,75.0,male,back,data/HAM10000_images_part_2/ISIC_0029337.jpg,Basal cell carcinoma,1,unduplicated
+273,HAM_0006640,ISIC_0029551,nv,follow_up,45.0,male,foot,data/HAM10000_images_part_2/ISIC_0029551.jpg,Melanocytic nevi,4,unduplicated
+274,HAM_0003314,ISIC_0026470,nv,follow_up,5.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026470.jpg,Melanocytic nevi,4,unduplicated
+275,HAM_0003837,ISIC_0028850,nv,follow_up,40.0,female,back,data/HAM10000_images_part_1/ISIC_0028850.jpg,Melanocytic nevi,4,unduplicated
+276,HAM_0005225,ISIC_0031213,nv,follow_up,75.0,male,back,data/HAM10000_images_part_2/ISIC_0031213.jpg,Melanocytic nevi,4,unduplicated
+277,HAM_0000660,ISIC_0028953,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028953.jpg,Melanocytic nevi,4,unduplicated
+278,HAM_0006532,ISIC_0026435,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026435.jpg,Melanocytic nevi,4,unduplicated
+279,HAM_0001067,ISIC_0028813,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028813.jpg,Melanocytic nevi,4,unduplicated
+280,HAM_0000056,ISIC_0025725,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025725.jpg,Melanocytic nevi,4,unduplicated
+281,HAM_0005009,ISIC_0027569,nv,histo,20.0,male,back,data/HAM10000_images_part_1/ISIC_0027569.jpg,Melanocytic nevi,4,unduplicated
+282,HAM_0005197,ISIC_0030922,nv,histo,75.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030922.jpg,Melanocytic nevi,4,unduplicated
+283,HAM_0003067,ISIC_0032084,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0032084.jpg,Melanocytic nevi,4,unduplicated
+284,HAM_0006333,ISIC_0024424,nv,histo,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024424.jpg,Melanocytic nevi,4,unduplicated
+285,HAM_0006911,ISIC_0025747,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025747.jpg,Melanocytic nevi,4,unduplicated
+286,HAM_0003462,ISIC_0025239,nv,histo,30.0,female,chest,data/HAM10000_images_part_1/ISIC_0025239.jpg,Melanocytic nevi,4,unduplicated
+287,HAM_0003043,ISIC_0030915,bcc,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0030915.jpg,Basal cell carcinoma,1,unduplicated
+288,HAM_0005398,ISIC_0028374,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028374.jpg,Melanocytic nevi,4,unduplicated
+289,HAM_0004480,ISIC_0032290,bcc,histo,80.0,male,face,data/HAM10000_images_part_2/ISIC_0032290.jpg,Basal cell carcinoma,1,unduplicated
+290,HAM_0003111,ISIC_0030495,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030495.jpg,Melanocytic nevi,4,unduplicated
+291,HAM_0005097,ISIC_0031018,nv,follow_up,75.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031018.jpg,Melanocytic nevi,4,unduplicated
+292,HAM_0000357,ISIC_0025134,nv,follow_up,55.0,male,neck,data/HAM10000_images_part_1/ISIC_0025134.jpg,Melanocytic nevi,4,unduplicated
+293,HAM_0005458,ISIC_0030584,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030584.jpg,Melanocytic nevi,4,unduplicated
+294,HAM_0000489,ISIC_0024960,nv,follow_up,80.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024960.jpg,Melanocytic nevi,4,unduplicated
+295,HAM_0006665,ISIC_0030775,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030775.jpg,Melanocytic nevi,4,unduplicated
+296,HAM_0005352,ISIC_0027100,mel,histo,75.0,male,face,data/HAM10000_images_part_1/ISIC_0027100.jpg,Melanoma,5,unduplicated
+297,HAM_0002604,ISIC_0033656,nv,consensus,25.0,male,unknown,data/HAM10000_images_part_2/ISIC_0033656.jpg,Melanocytic nevi,4,unduplicated
+298,HAM_0003136,ISIC_0026645,akiec,histo,65.0,male,back,data/HAM10000_images_part_1/ISIC_0026645.jpg,Actinic keratoses,0,unduplicated
+299,HAM_0005904,ISIC_0024956,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024956.jpg,Melanocytic nevi,4,unduplicated
+300,HAM_0005301,ISIC_0026362,akiec,histo,60.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0026362.jpg,Actinic keratoses,0,unduplicated
+301,HAM_0000227,ISIC_0032201,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032201.jpg,Melanocytic nevi,4,unduplicated
+302,HAM_0007031,ISIC_0025616,mel,histo,70.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025616.jpg,Melanoma,5,unduplicated
+303,HAM_0004463,ISIC_0027770,bkl,histo,75.0,male,face,data/HAM10000_images_part_1/ISIC_0027770.jpg,Benign keratosis-like lesions ,2,unduplicated
+304,HAM_0001115,ISIC_0024778,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024778.jpg,Melanocytic nevi,4,unduplicated
+305,HAM_0006079,ISIC_0030641,nv,follow_up,30.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030641.jpg,Melanocytic nevi,4,unduplicated
+306,HAM_0005385,ISIC_0028754,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028754.jpg,Melanocytic nevi,4,unduplicated
+307,HAM_0001365,ISIC_0026307,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026307.jpg,Melanocytic nevi,4,unduplicated
+308,HAM_0007503,ISIC_0026109,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026109.jpg,Melanocytic nevi,4,unduplicated
+309,HAM_0006263,ISIC_0029447,nv,follow_up,40.0,male,back,data/HAM10000_images_part_2/ISIC_0029447.jpg,Melanocytic nevi,4,unduplicated
+310,HAM_0002737,ISIC_0029795,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029795.jpg,Melanocytic nevi,4,unduplicated
+311,HAM_0006089,ISIC_0031316,nv,follow_up,45.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031316.jpg,Melanocytic nevi,4,unduplicated
+312,HAM_0000037,ISIC_0027391,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027391.jpg,Melanocytic nevi,4,unduplicated
+313,HAM_0004766,ISIC_0030462,nv,histo,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030462.jpg,Melanocytic nevi,4,unduplicated
+314,HAM_0001290,ISIC_0032263,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032263.jpg,Melanocytic nevi,4,unduplicated
+315,HAM_0001006,ISIC_0027602,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027602.jpg,Melanocytic nevi,4,unduplicated
+316,HAM_0001628,ISIC_0024810,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024810.jpg,Melanocytic nevi,4,unduplicated
+317,HAM_0001238,ISIC_0032409,vasc,consensus,80.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0032409.jpg,Vascular lesions,6,unduplicated
+318,HAM_0001418,ISIC_0025062,nv,consensus,55.0,female,back,data/HAM10000_images_part_1/ISIC_0025062.jpg,Melanocytic nevi,4,unduplicated
+319,HAM_0005693,ISIC_0027781,bkl,histo,80.0,male,back,data/HAM10000_images_part_1/ISIC_0027781.jpg,Benign keratosis-like lesions ,2,unduplicated
+320,HAM_0003180,ISIC_0031058,nv,follow_up,40.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031058.jpg,Melanocytic nevi,4,unduplicated
+321,HAM_0002783,ISIC_0029507,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029507.jpg,Melanocytic nevi,4,unduplicated
+322,HAM_0002931,ISIC_0028427,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028427.jpg,Melanocytic nevi,4,unduplicated
+323,HAM_0005656,ISIC_0026478,nv,follow_up,45.0,male,face,data/HAM10000_images_part_1/ISIC_0026478.jpg,Melanocytic nevi,4,unduplicated
+324,HAM_0006419,ISIC_0026193,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026193.jpg,Melanocytic nevi,4,unduplicated
+325,HAM_0005099,ISIC_0029648,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029648.jpg,Melanocytic nevi,4,unduplicated
+326,HAM_0004987,ISIC_0027132,nv,follow_up,70.0,male,back,data/HAM10000_images_part_1/ISIC_0027132.jpg,Melanocytic nevi,4,unduplicated
+327,HAM_0001150,ISIC_0030486,mel,histo,80.0,male,ear,data/HAM10000_images_part_2/ISIC_0030486.jpg,Melanoma,5,unduplicated
+328,HAM_0003347,ISIC_0032416,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032416.jpg,Melanocytic nevi,4,unduplicated
+329,HAM_0003031,ISIC_0030445,mel,histo,75.0,male,back,data/HAM10000_images_part_2/ISIC_0030445.jpg,Melanoma,5,unduplicated
+330,HAM_0006703,ISIC_0031833,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031833.jpg,Melanocytic nevi,4,unduplicated
+331,HAM_0002854,ISIC_0031673,nv,follow_up,30.0,female,back,data/HAM10000_images_part_2/ISIC_0031673.jpg,Melanocytic nevi,4,unduplicated
+332,HAM_0007132,ISIC_0029621,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029621.jpg,Melanocytic nevi,4,unduplicated
+333,HAM_0001491,ISIC_0027396,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027396.jpg,Melanocytic nevi,4,unduplicated
+334,HAM_0004246,ISIC_0033854,bkl,consensus,70.0,male,back,data/HAM10000_images_part_2/ISIC_0033854.jpg,Benign keratosis-like lesions ,2,unduplicated
+335,HAM_0002286,ISIC_0029876,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029876.jpg,Melanocytic nevi,4,unduplicated
+336,HAM_0001704,ISIC_0031415,nv,follow_up,50.0,male,back,data/HAM10000_images_part_2/ISIC_0031415.jpg,Melanocytic nevi,4,unduplicated
+337,HAM_0003769,ISIC_0027692,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027692.jpg,Melanocytic nevi,4,unduplicated
+338,HAM_0006981,ISIC_0029451,nv,follow_up,45.0,female,foot,data/HAM10000_images_part_2/ISIC_0029451.jpg,Melanocytic nevi,4,unduplicated
+339,HAM_0003163,ISIC_0029327,nv,follow_up,70.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029327.jpg,Melanocytic nevi,4,unduplicated
+340,HAM_0005964,ISIC_0026405,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0026405.jpg,Melanocytic nevi,4,unduplicated
+341,HAM_0006743,ISIC_0030055,nv,follow_up,30.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030055.jpg,Melanocytic nevi,4,unduplicated
+342,HAM_0006175,ISIC_0024954,nv,follow_up,35.0,male,back,data/HAM10000_images_part_1/ISIC_0024954.jpg,Melanocytic nevi,4,unduplicated
+343,HAM_0005682,ISIC_0028770,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028770.jpg,Melanocytic nevi,4,unduplicated
+344,HAM_0006796,ISIC_0025707,vasc,consensus,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025707.jpg,Vascular lesions,6,unduplicated
+345,HAM_0007251,ISIC_0024964,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0024964.jpg,Melanocytic nevi,4,unduplicated
+346,HAM_0000214,ISIC_0033364,nv,consensus,25.0,female,foot,data/HAM10000_images_part_2/ISIC_0033364.jpg,Melanocytic nevi,4,unduplicated
+347,HAM_0006279,ISIC_0027195,nv,follow_up,25.0,female,neck,data/HAM10000_images_part_1/ISIC_0027195.jpg,Melanocytic nevi,4,unduplicated
+348,HAM_0004654,ISIC_0027130,mel,histo,70.0,male,chest,data/HAM10000_images_part_1/ISIC_0027130.jpg,Melanoma,5,unduplicated
+349,HAM_0001513,ISIC_0032491,nv,follow_up,70.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032491.jpg,Melanocytic nevi,4,unduplicated
+350,HAM_0003010,ISIC_0029924,bkl,consensus,55.0,female,face,data/HAM10000_images_part_2/ISIC_0029924.jpg,Benign keratosis-like lesions ,2,unduplicated
+351,HAM_0004838,ISIC_0030869,nv,follow_up,70.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030869.jpg,Melanocytic nevi,4,unduplicated
+352,HAM_0002710,ISIC_0025241,nv,follow_up,70.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025241.jpg,Melanocytic nevi,4,unduplicated
+353,HAM_0003630,ISIC_0030538,nv,follow_up,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030538.jpg,Melanocytic nevi,4,unduplicated
+354,HAM_0004680,ISIC_0024876,nv,histo,40.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0024876.jpg,Melanocytic nevi,4,unduplicated
+355,HAM_0000629,ISIC_0029008,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0029008.jpg,Melanocytic nevi,4,unduplicated
+356,HAM_0004192,ISIC_0033066,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0033066.jpg,Melanocytic nevi,4,unduplicated
+357,HAM_0005729,ISIC_0030113,nv,follow_up,40.0,male,back,data/HAM10000_images_part_2/ISIC_0030113.jpg,Melanocytic nevi,4,unduplicated
+358,HAM_0001590,ISIC_0025722,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025722.jpg,Melanocytic nevi,4,unduplicated
+359,HAM_0005061,ISIC_0032466,mel,histo,60.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032466.jpg,Melanoma,5,unduplicated
+360,HAM_0006211,ISIC_0025519,bkl,histo,50.0,male,neck,data/HAM10000_images_part_1/ISIC_0025519.jpg,Benign keratosis-like lesions ,2,unduplicated
+361,HAM_0001143,ISIC_0033426,mel,histo,55.0,male,back,data/HAM10000_images_part_2/ISIC_0033426.jpg,Melanoma,5,unduplicated
+362,HAM_0005944,ISIC_0030850,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030850.jpg,Melanocytic nevi,4,unduplicated
+363,HAM_0005849,ISIC_0028647,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028647.jpg,Melanocytic nevi,4,unduplicated
+364,HAM_0003210,ISIC_0030237,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030237.jpg,Melanocytic nevi,4,unduplicated
+365,HAM_0003177,ISIC_0031697,bcc,histo,60.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031697.jpg,Basal cell carcinoma,1,unduplicated
+366,HAM_0003773,ISIC_0027952,nv,follow_up,30.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027952.jpg,Melanocytic nevi,4,unduplicated
+367,HAM_0001700,ISIC_0030971,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030971.jpg,Melanocytic nevi,4,unduplicated
+368,HAM_0002879,ISIC_0025693,bkl,histo,80.0,male,scalp,data/HAM10000_images_part_1/ISIC_0025693.jpg,Benign keratosis-like lesions ,2,unduplicated
+369,HAM_0005073,ISIC_0029956,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029956.jpg,Melanocytic nevi,4,unduplicated
+370,HAM_0006479,ISIC_0026004,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026004.jpg,Melanocytic nevi,4,unduplicated
+371,HAM_0003199,ISIC_0027309,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027309.jpg,Melanocytic nevi,4,unduplicated
+372,HAM_0002142,ISIC_0025960,nv,histo,75.0,male,ear,data/HAM10000_images_part_1/ISIC_0025960.jpg,Melanocytic nevi,4,unduplicated
+373,HAM_0007340,ISIC_0028944,nv,histo,40.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028944.jpg,Melanocytic nevi,4,unduplicated
+374,HAM_0003577,ISIC_0024307,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024307.jpg,Melanocytic nevi,4,unduplicated
+375,HAM_0006962,ISIC_0025914,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025914.jpg,Melanocytic nevi,4,unduplicated
+376,HAM_0001123,ISIC_0027554,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027554.jpg,Melanocytic nevi,4,unduplicated
+377,HAM_0001023,ISIC_0026468,akiec,histo,50.0,male,hand,data/HAM10000_images_part_1/ISIC_0026468.jpg,Actinic keratoses,0,unduplicated
+378,HAM_0003284,ISIC_0030894,nv,histo,75.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030894.jpg,Melanocytic nevi,4,unduplicated
+379,HAM_0006784,ISIC_0025486,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025486.jpg,Melanocytic nevi,4,unduplicated
+380,HAM_0002473,ISIC_0025922,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025922.jpg,Melanocytic nevi,4,unduplicated
+381,HAM_0001350,ISIC_0030221,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030221.jpg,Melanocytic nevi,4,unduplicated
+382,HAM_0002341,ISIC_0029117,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0029117.jpg,Melanocytic nevi,4,unduplicated
+383,HAM_0006139,ISIC_0025349,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025349.jpg,Melanocytic nevi,4,unduplicated
+384,HAM_0000789,ISIC_0028932,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028932.jpg,Melanocytic nevi,4,unduplicated
+385,HAM_0002497,ISIC_0025443,nv,histo,75.0,male,back,data/HAM10000_images_part_1/ISIC_0025443.jpg,Melanocytic nevi,4,unduplicated
+386,HAM_0001629,ISIC_0032317,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032317.jpg,Melanocytic nevi,4,unduplicated
+387,HAM_0004467,ISIC_0027687,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027687.jpg,Melanocytic nevi,4,unduplicated
+388,HAM_0004055,ISIC_0030287,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030287.jpg,Melanocytic nevi,4,unduplicated
+389,HAM_0002544,ISIC_0029711,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029711.jpg,Melanocytic nevi,4,unduplicated
+390,HAM_0006842,ISIC_0030728,nv,follow_up,35.0,female,back,data/HAM10000_images_part_2/ISIC_0030728.jpg,Melanocytic nevi,4,unduplicated
+391,HAM_0005405,ISIC_0025164,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0025164.jpg,Melanocytic nevi,4,unduplicated
+392,HAM_0004352,ISIC_0034250,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034250.jpg,Melanocytic nevi,4,unduplicated
+393,HAM_0001543,ISIC_0029639,nv,follow_up,60.0,female,foot,data/HAM10000_images_part_2/ISIC_0029639.jpg,Melanocytic nevi,4,unduplicated
+394,HAM_0005344,ISIC_0029383,nv,follow_up,45.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0029383.jpg,Melanocytic nevi,4,unduplicated
+395,HAM_0005885,ISIC_0031215,vasc,consensus,75.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031215.jpg,Vascular lesions,6,unduplicated
+396,HAM_0000768,ISIC_0028242,nv,follow_up,35.0,male,back,data/HAM10000_images_part_1/ISIC_0028242.jpg,Melanocytic nevi,4,unduplicated
+397,HAM_0006907,ISIC_0027953,bkl,histo,35.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027953.jpg,Benign keratosis-like lesions ,2,unduplicated
+398,HAM_0001113,ISIC_0031900,mel,histo,55.0,male,back,data/HAM10000_images_part_2/ISIC_0031900.jpg,Melanoma,5,unduplicated
+399,HAM_0001348,ISIC_0028259,nv,follow_up,35.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0028259.jpg,Melanocytic nevi,4,unduplicated
+400,HAM_0001713,ISIC_0028671,bcc,histo,55.0,male,back,data/HAM10000_images_part_1/ISIC_0028671.jpg,Basal cell carcinoma,1,unduplicated
+401,HAM_0006338,ISIC_0025125,nv,follow_up,70.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025125.jpg,Melanocytic nevi,4,unduplicated
+402,HAM_0007611,ISIC_0032314,bcc,histo,85.0,male,back,data/HAM10000_images_part_2/ISIC_0032314.jpg,Basal cell carcinoma,1,unduplicated
+403,HAM_0001391,ISIC_0024584,nv,follow_up,45.0,female,back,data/HAM10000_images_part_1/ISIC_0024584.jpg,Melanocytic nevi,4,unduplicated
+404,HAM_0005761,ISIC_0029493,nv,histo,30.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029493.jpg,Melanocytic nevi,4,unduplicated
+405,HAM_0007201,ISIC_0026208,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026208.jpg,Melanocytic nevi,4,unduplicated
+406,HAM_0001945,ISIC_0026919,nv,follow_up,45.0,female,back,data/HAM10000_images_part_1/ISIC_0026919.jpg,Melanocytic nevi,4,unduplicated
+407,HAM_0005671,ISIC_0029697,nv,follow_up,55.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029697.jpg,Melanocytic nevi,4,unduplicated
+408,HAM_0005668,ISIC_0028370,akiec,histo,60.0,male,face,data/HAM10000_images_part_1/ISIC_0028370.jpg,Actinic keratoses,0,unduplicated
+409,HAM_0004377,ISIC_0030561,bkl,histo,40.0,female,foot,data/HAM10000_images_part_2/ISIC_0030561.jpg,Benign keratosis-like lesions ,2,unduplicated
+410,HAM_0006710,ISIC_0028324,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028324.jpg,Melanocytic nevi,4,unduplicated
+411,HAM_0002829,ISIC_0029134,nv,follow_up,30.0,male,trunk,data/HAM10000_images_part_1/ISIC_0029134.jpg,Melanocytic nevi,4,unduplicated
+412,HAM_0004005,ISIC_0032093,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032093.jpg,Melanocytic nevi,4,unduplicated
+413,HAM_0000421,ISIC_0034080,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0034080.jpg,Melanocytic nevi,4,unduplicated
+414,HAM_0001423,ISIC_0025454,bkl,consensus,70.0,male,back,data/HAM10000_images_part_1/ISIC_0025454.jpg,Benign keratosis-like lesions ,2,unduplicated
+415,HAM_0002201,ISIC_0024514,nv,histo,50.0,male,back,data/HAM10000_images_part_1/ISIC_0024514.jpg,Melanocytic nevi,4,unduplicated
+416,HAM_0002662,ISIC_0031572,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031572.jpg,Melanocytic nevi,4,unduplicated
+417,HAM_0000333,ISIC_0029098,nv,follow_up,40.0,male,hand,data/HAM10000_images_part_1/ISIC_0029098.jpg,Melanocytic nevi,4,unduplicated
+418,HAM_0002317,ISIC_0027268,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027268.jpg,Melanocytic nevi,4,unduplicated
+419,HAM_0001805,ISIC_0027200,nv,follow_up,55.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027200.jpg,Melanocytic nevi,4,unduplicated
+420,HAM_0002799,ISIC_0027975,nv,follow_up,30.0,male,neck,data/HAM10000_images_part_1/ISIC_0027975.jpg,Melanocytic nevi,4,unduplicated
+421,HAM_0001112,ISIC_0024359,nv,follow_up,40.0,male,back,data/HAM10000_images_part_1/ISIC_0024359.jpg,Melanocytic nevi,4,unduplicated
+422,HAM_0004146,ISIC_0027450,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0027450.jpg,Melanocytic nevi,4,unduplicated
+423,HAM_0001399,ISIC_0030207,bkl,consensus,75.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030207.jpg,Benign keratosis-like lesions ,2,unduplicated
+424,HAM_0007145,ISIC_0027758,nv,follow_up,35.0,female,back,data/HAM10000_images_part_1/ISIC_0027758.jpg,Melanocytic nevi,4,unduplicated
+425,HAM_0000475,ISIC_0027299,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027299.jpg,Melanocytic nevi,4,unduplicated
+426,HAM_0004950,ISIC_0031878,nv,follow_up,70.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031878.jpg,Melanocytic nevi,4,unduplicated
+427,HAM_0001714,ISIC_0032354,nv,follow_up,30.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032354.jpg,Melanocytic nevi,4,unduplicated
+428,HAM_0006716,ISIC_0024434,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024434.jpg,Melanocytic nevi,4,unduplicated
+429,HAM_0001448,ISIC_0029496,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029496.jpg,Melanocytic nevi,4,unduplicated
+430,HAM_0001287,ISIC_0024535,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0024535.jpg,Melanocytic nevi,4,unduplicated
+431,HAM_0001653,ISIC_0027895,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027895.jpg,Melanocytic nevi,4,unduplicated
+432,HAM_0004659,ISIC_0027993,nv,follow_up,60.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027993.jpg,Melanocytic nevi,4,unduplicated
+433,HAM_0005492,ISIC_0032138,df,histo,35.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032138.jpg,Dermatofibroma,3,unduplicated
+434,HAM_0002426,ISIC_0024348,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024348.jpg,Melanocytic nevi,4,unduplicated
+435,HAM_0005411,ISIC_0026300,nv,follow_up,65.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026300.jpg,Melanocytic nevi,4,unduplicated
+436,HAM_0001711,ISIC_0028677,bcc,histo,70.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0028677.jpg,Basal cell carcinoma,1,unduplicated
+437,HAM_0005191,ISIC_0031177,mel,histo,40.0,female,back,data/HAM10000_images_part_2/ISIC_0031177.jpg,Melanoma,5,unduplicated
+438,HAM_0001990,ISIC_0027612,bkl,consensus,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027612.jpg,Benign keratosis-like lesions ,2,unduplicated
+439,HAM_0005257,ISIC_0033751,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0033751.jpg,Melanocytic nevi,4,unduplicated
+440,HAM_0007105,ISIC_0026616,nv,follow_up,35.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026616.jpg,Melanocytic nevi,4,unduplicated
+441,HAM_0002328,ISIC_0026896,nv,follow_up,40.0,female,back,data/HAM10000_images_part_1/ISIC_0026896.jpg,Melanocytic nevi,4,unduplicated
+442,HAM_0003952,ISIC_0031176,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031176.jpg,Melanocytic nevi,4,unduplicated
+443,HAM_0003061,ISIC_0032262,nv,follow_up,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032262.jpg,Melanocytic nevi,4,unduplicated
+444,HAM_0003673,ISIC_0030016,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030016.jpg,Melanocytic nevi,4,unduplicated
+445,HAM_0000314,ISIC_0024621,nv,follow_up,70.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024621.jpg,Melanocytic nevi,4,unduplicated
+446,HAM_0006701,ISIC_0029310,nv,follow_up,40.0,female,foot,data/HAM10000_images_part_2/ISIC_0029310.jpg,Melanocytic nevi,4,unduplicated
+447,HAM_0002727,ISIC_0025459,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0025459.jpg,Melanocytic nevi,4,unduplicated
+448,HAM_0004210,ISIC_0034081,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0034081.jpg,Melanocytic nevi,4,unduplicated
+449,HAM_0001890,ISIC_0030707,akiec,histo,80.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030707.jpg,Actinic keratoses,0,unduplicated
+450,HAM_0007430,ISIC_0029088,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029088.jpg,Melanocytic nevi,4,unduplicated
+451,HAM_0003316,ISIC_0031472,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031472.jpg,Melanocytic nevi,4,unduplicated
+452,HAM_0002818,ISIC_0028570,bcc,histo,85.0,female,back,data/HAM10000_images_part_1/ISIC_0028570.jpg,Basal cell carcinoma,1,unduplicated
+453,HAM_0007245,ISIC_0032870,mel,histo,85.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0032870.jpg,Melanoma,5,unduplicated
+454,HAM_0007116,ISIC_0028951,nv,histo,45.0,male,back,data/HAM10000_images_part_1/ISIC_0028951.jpg,Melanocytic nevi,4,unduplicated
+455,HAM_0002179,ISIC_0028654,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028654.jpg,Melanocytic nevi,4,unduplicated
+456,HAM_0006231,ISIC_0032849,nv,consensus,60.0,male,unknown,data/HAM10000_images_part_2/ISIC_0032849.jpg,Melanocytic nevi,4,unduplicated
+457,HAM_0006424,ISIC_0032256,nv,follow_up,20.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0032256.jpg,Melanocytic nevi,4,unduplicated
+458,HAM_0006115,ISIC_0025576,bcc,histo,55.0,male,back,data/HAM10000_images_part_1/ISIC_0025576.jpg,Basal cell carcinoma,1,unduplicated
+459,HAM_0006901,ISIC_0026700,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026700.jpg,Melanocytic nevi,4,unduplicated
+460,HAM_0006235,ISIC_0033681,nv,consensus,60.0,male,unknown,data/HAM10000_images_part_2/ISIC_0033681.jpg,Melanocytic nevi,4,unduplicated
+461,HAM_0005403,ISIC_0026086,mel,histo,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026086.jpg,Melanoma,5,unduplicated
+462,HAM_0000361,ISIC_0032199,akiec,histo,60.0,female,face,data/HAM10000_images_part_2/ISIC_0032199.jpg,Actinic keratoses,0,unduplicated
+463,HAM_0004562,ISIC_0031387,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031387.jpg,Melanocytic nevi,4,unduplicated
+464,HAM_0001389,ISIC_0026775,bkl,histo,75.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026775.jpg,Benign keratosis-like lesions ,2,unduplicated
+465,HAM_0003813,ISIC_0033173,nv,consensus,40.0,male,unknown,data/HAM10000_images_part_2/ISIC_0033173.jpg,Melanocytic nevi,4,unduplicated
+466,HAM_0000436,ISIC_0026547,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026547.jpg,Melanocytic nevi,4,unduplicated
+467,HAM_0003024,ISIC_0024768,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0024768.jpg,Melanocytic nevi,4,unduplicated
+468,HAM_0005388,ISIC_0027815,bkl,histo,80.0,male,chest,data/HAM10000_images_part_1/ISIC_0027815.jpg,Benign keratosis-like lesions ,2,unduplicated
+469,HAM_0006466,ISIC_0024495,bkl,histo,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024495.jpg,Benign keratosis-like lesions ,2,unduplicated
+470,HAM_0005991,ISIC_0031505,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031505.jpg,Melanocytic nevi,4,unduplicated
+471,HAM_0003128,ISIC_0030660,nv,follow_up,50.0,female,unknown,data/HAM10000_images_part_2/ISIC_0030660.jpg,Melanocytic nevi,4,unduplicated
+472,HAM_0004965,ISIC_0025287,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025287.jpg,Melanocytic nevi,4,unduplicated
+473,HAM_0006296,ISIC_0028999,nv,histo,70.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028999.jpg,Melanocytic nevi,4,unduplicated
+474,HAM_0005638,ISIC_0030201,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030201.jpg,Melanocytic nevi,4,unduplicated
+475,HAM_0000782,ISIC_0030723,bkl,histo,75.0,female,face,data/HAM10000_images_part_2/ISIC_0030723.jpg,Benign keratosis-like lesions ,2,unduplicated
+476,HAM_0000228,ISIC_0025146,nv,follow_up,50.0,female,hand,data/HAM10000_images_part_1/ISIC_0025146.jpg,Melanocytic nevi,4,unduplicated
+477,HAM_0005130,ISIC_0032002,nv,follow_up,45.0,male,back,data/HAM10000_images_part_2/ISIC_0032002.jpg,Melanocytic nevi,4,unduplicated
+478,HAM_0003464,ISIC_0031715,nv,follow_up,65.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031715.jpg,Melanocytic nevi,4,unduplicated
+479,HAM_0005816,ISIC_0027257,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027257.jpg,Melanocytic nevi,4,unduplicated
+480,HAM_0007339,ISIC_0031536,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031536.jpg,Melanocytic nevi,4,unduplicated
+481,HAM_0002316,ISIC_0029217,bkl,histo,35.0,male,face,data/HAM10000_images_part_1/ISIC_0029217.jpg,Benign keratosis-like lesions ,2,unduplicated
+482,HAM_0000686,ISIC_0031523,nv,follow_up,65.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031523.jpg,Melanocytic nevi,4,unduplicated
+483,HAM_0001323,ISIC_0032087,nv,follow_up,50.0,female,back,data/HAM10000_images_part_2/ISIC_0032087.jpg,Melanocytic nevi,4,unduplicated
+484,HAM_0007495,ISIC_0027491,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027491.jpg,Melanocytic nevi,4,unduplicated
+485,HAM_0003714,ISIC_0026064,nv,follow_up,55.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026064.jpg,Melanocytic nevi,4,unduplicated
+486,HAM_0000865,ISIC_0028826,bkl,consensus,70.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028826.jpg,Benign keratosis-like lesions ,2,unduplicated
+487,HAM_0004824,ISIC_0026698,nv,histo,60.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026698.jpg,Melanocytic nevi,4,unduplicated
+488,HAM_0007218,ISIC_0025006,nv,follow_up,40.0,male,back,data/HAM10000_images_part_1/ISIC_0025006.jpg,Melanocytic nevi,4,unduplicated
+489,HAM_0007619,ISIC_0026948,nv,follow_up,45.0,female,back,data/HAM10000_images_part_1/ISIC_0026948.jpg,Melanocytic nevi,4,unduplicated
+490,HAM_0003792,ISIC_0029069,nv,follow_up,30.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0029069.jpg,Melanocytic nevi,4,unduplicated
+491,HAM_0006302,ISIC_0030819,nv,histo,50.0,female,ear,data/HAM10000_images_part_2/ISIC_0030819.jpg,Melanocytic nevi,4,unduplicated
+492,HAM_0001607,ISIC_0028508,mel,histo,75.0,male,back,data/HAM10000_images_part_1/ISIC_0028508.jpg,Melanoma,5,unduplicated
+493,HAM_0005163,ISIC_0026888,nv,histo,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026888.jpg,Melanocytic nevi,4,unduplicated
+494,HAM_0004248,ISIC_0028812,nv,follow_up,45.0,female,foot,data/HAM10000_images_part_1/ISIC_0028812.jpg,Melanocytic nevi,4,unduplicated
+495,HAM_0006871,ISIC_0026836,nv,follow_up,40.0,female,face,data/HAM10000_images_part_1/ISIC_0026836.jpg,Melanocytic nevi,4,unduplicated
+496,HAM_0006122,ISIC_0031556,bkl,histo,60.0,male,scalp,data/HAM10000_images_part_2/ISIC_0031556.jpg,Benign keratosis-like lesions ,2,unduplicated
+497,HAM_0000973,ISIC_0025222,bkl,histo,65.0,female,face,data/HAM10000_images_part_1/ISIC_0025222.jpg,Benign keratosis-like lesions ,2,unduplicated
+498,HAM_0002302,ISIC_0029633,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029633.jpg,Melanocytic nevi,4,unduplicated
+499,HAM_0005472,ISIC_0027173,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027173.jpg,Melanocytic nevi,4,unduplicated
+500,HAM_0006091,ISIC_0026507,nv,follow_up,75.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026507.jpg,Melanocytic nevi,4,unduplicated
+501,HAM_0001918,ISIC_0031291,nv,follow_up,45.0,female,back,data/HAM10000_images_part_2/ISIC_0031291.jpg,Melanocytic nevi,4,unduplicated
+502,HAM_0000031,ISIC_0028177,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028177.jpg,Melanocytic nevi,4,unduplicated
+503,HAM_0002228,ISIC_0032035,nv,histo,40.0,male,back,data/HAM10000_images_part_2/ISIC_0032035.jpg,Melanocytic nevi,4,unduplicated
+504,HAM_0000110,ISIC_0025703,bkl,histo,70.0,male,back,data/HAM10000_images_part_1/ISIC_0025703.jpg,Benign keratosis-like lesions ,2,unduplicated
+505,HAM_0000643,ISIC_0029731,bkl,consensus,75.0,male,face,data/HAM10000_images_part_2/ISIC_0029731.jpg,Benign keratosis-like lesions ,2,unduplicated
+506,HAM_0004003,ISIC_0031097,nv,follow_up,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031097.jpg,Melanocytic nevi,4,unduplicated
+507,HAM_0003247,ISIC_0026707,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026707.jpg,Melanocytic nevi,4,unduplicated
+508,HAM_0005133,ISIC_0028409,nv,follow_up,75.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028409.jpg,Melanocytic nevi,4,unduplicated
+509,HAM_0002153,ISIC_0029297,df,consensus,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029297.jpg,Dermatofibroma,3,unduplicated
+510,HAM_0004502,ISIC_0024541,nv,follow_up,65.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024541.jpg,Melanocytic nevi,4,unduplicated
+511,HAM_0001283,ISIC_0026845,bcc,histo,80.0,male,chest,data/HAM10000_images_part_1/ISIC_0026845.jpg,Basal cell carcinoma,1,unduplicated
+512,HAM_0003325,ISIC_0034190,nv,histo,20.0,female,neck,data/HAM10000_images_part_2/ISIC_0034190.jpg,Melanocytic nevi,4,unduplicated
+513,HAM_0003186,ISIC_0027297,bcc,histo,70.0,male,face,data/HAM10000_images_part_1/ISIC_0027297.jpg,Basal cell carcinoma,1,unduplicated
+514,HAM_0006218,ISIC_0032589,nv,consensus,70.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032589.jpg,Melanocytic nevi,4,unduplicated
+515,HAM_0002835,ISIC_0028510,nv,histo,30.0,female,foot,data/HAM10000_images_part_1/ISIC_0028510.jpg,Melanocytic nevi,4,unduplicated
+516,HAM_0005306,ISIC_0027056,nv,follow_up,60.0,male,back,data/HAM10000_images_part_1/ISIC_0027056.jpg,Melanocytic nevi,4,unduplicated
+517,HAM_0004010,ISIC_0031061,bkl,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0031061.jpg,Benign keratosis-like lesions ,2,unduplicated
+518,HAM_0007177,ISIC_0025626,nv,follow_up,30.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025626.jpg,Melanocytic nevi,4,unduplicated
+519,HAM_0003112,ISIC_0030233,bcc,histo,80.0,male,chest,data/HAM10000_images_part_2/ISIC_0030233.jpg,Basal cell carcinoma,1,unduplicated
+520,HAM_0006523,ISIC_0027919,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027919.jpg,Melanocytic nevi,4,unduplicated
+521,HAM_0004150,ISIC_0026632,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0026632.jpg,Melanocytic nevi,4,unduplicated
+522,HAM_0003905,ISIC_0029275,nv,follow_up,35.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0029275.jpg,Melanocytic nevi,4,unduplicated
+523,HAM_0004218,ISIC_0028256,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028256.jpg,Melanocytic nevi,4,unduplicated
+524,HAM_0006836,ISIC_0025678,nv,follow_up,30.0,male,back,data/HAM10000_images_part_1/ISIC_0025678.jpg,Melanocytic nevi,4,unduplicated
+525,HAM_0004918,ISIC_0026317,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026317.jpg,Melanocytic nevi,4,unduplicated
+526,HAM_0001499,ISIC_0031929,akiec,histo,65.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031929.jpg,Actinic keratoses,0,unduplicated
+527,HAM_0004052,ISIC_0028206,nv,follow_up,45.0,female,hand,data/HAM10000_images_part_1/ISIC_0028206.jpg,Melanocytic nevi,4,unduplicated
+528,HAM_0006995,ISIC_0025115,nv,follow_up,30.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025115.jpg,Melanocytic nevi,4,unduplicated
+529,HAM_0001394,ISIC_0031864,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031864.jpg,Melanocytic nevi,4,unduplicated
+530,HAM_0004626,ISIC_0026904,nv,follow_up,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026904.jpg,Melanocytic nevi,4,unduplicated
+531,HAM_0007156,ISIC_0025893,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025893.jpg,Melanocytic nevi,4,unduplicated
+532,HAM_0000289,ISIC_0032226,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032226.jpg,Melanocytic nevi,4,unduplicated
+533,HAM_0001241,ISIC_0031461,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031461.jpg,Melanocytic nevi,4,unduplicated
+534,HAM_0003922,ISIC_0027603,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027603.jpg,Melanocytic nevi,4,unduplicated
+535,HAM_0004943,ISIC_0027790,vasc,consensus,50.0,female,face,data/HAM10000_images_part_1/ISIC_0027790.jpg,Vascular lesions,6,unduplicated
+536,HAM_0000519,ISIC_0030758,bkl,histo,70.0,male,neck,data/HAM10000_images_part_2/ISIC_0030758.jpg,Benign keratosis-like lesions ,2,unduplicated
+537,HAM_0005183,ISIC_0029696,nv,histo,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0029696.jpg,Melanocytic nevi,4,unduplicated
+538,HAM_0002986,ISIC_0028706,nv,histo,70.0,female,foot,data/HAM10000_images_part_1/ISIC_0028706.jpg,Melanocytic nevi,4,unduplicated
+539,HAM_0003697,ISIC_0025438,nv,follow_up,40.0,male,back,data/HAM10000_images_part_1/ISIC_0025438.jpg,Melanocytic nevi,4,unduplicated
+540,HAM_0002183,ISIC_0031912,nv,follow_up,65.0,male,back,data/HAM10000_images_part_2/ISIC_0031912.jpg,Melanocytic nevi,4,unduplicated
+541,HAM_0005532,ISIC_0030183,mel,histo,70.0,male,chest,data/HAM10000_images_part_2/ISIC_0030183.jpg,Melanoma,5,unduplicated
+542,HAM_0003095,ISIC_0025755,mel,histo,60.0,female,back,data/HAM10000_images_part_1/ISIC_0025755.jpg,Melanoma,5,unduplicated
+543,HAM_0001317,ISIC_0027995,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0027995.jpg,Melanocytic nevi,4,unduplicated
+544,HAM_0003984,ISIC_0032228,nv,follow_up,30.0,male,back,data/HAM10000_images_part_2/ISIC_0032228.jpg,Melanocytic nevi,4,unduplicated
+545,HAM_0001886,ISIC_0028318,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028318.jpg,Melanocytic nevi,4,unduplicated
+546,HAM_0004228,ISIC_0027748,nv,follow_up,65.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027748.jpg,Melanocytic nevi,4,unduplicated
+547,HAM_0003266,ISIC_0029468,nv,follow_up,30.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029468.jpg,Melanocytic nevi,4,unduplicated
+548,HAM_0006246,ISIC_0024523,nv,follow_up,45.0,female,genital,data/HAM10000_images_part_1/ISIC_0024523.jpg,Melanocytic nevi,4,unduplicated
+549,HAM_0007338,ISIC_0028986,nv,follow_up,65.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028986.jpg,Melanocytic nevi,4,unduplicated
+550,HAM_0003890,ISIC_0028940,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028940.jpg,Melanocytic nevi,4,unduplicated
+551,HAM_0007084,ISIC_0025315,nv,follow_up,40.0,female,back,data/HAM10000_images_part_1/ISIC_0025315.jpg,Melanocytic nevi,4,unduplicated
+552,HAM_0001637,ISIC_0031521,nv,histo,35.0,male,chest,data/HAM10000_images_part_2/ISIC_0031521.jpg,Melanocytic nevi,4,unduplicated
+553,HAM_0004527,ISIC_0027638,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027638.jpg,Melanocytic nevi,4,unduplicated
+554,HAM_0003413,ISIC_0030969,nv,follow_up,40.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030969.jpg,Melanocytic nevi,4,unduplicated
+555,HAM_0000562,ISIC_0026166,nv,histo,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026166.jpg,Melanocytic nevi,4,unduplicated
+556,HAM_0004719,ISIC_0029276,nv,histo,25.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0029276.jpg,Melanocytic nevi,4,unduplicated
+557,HAM_0004712,ISIC_0030101,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030101.jpg,Melanocytic nevi,4,unduplicated
+558,HAM_0005876,ISIC_0026980,nv,follow_up,60.0,male,foot,data/HAM10000_images_part_1/ISIC_0026980.jpg,Melanocytic nevi,4,unduplicated
+559,HAM_0003691,ISIC_0027428,bkl,consensus,75.0,female,back,data/HAM10000_images_part_1/ISIC_0027428.jpg,Benign keratosis-like lesions ,2,unduplicated
+560,HAM_0002622,ISIC_0030187,mel,histo,35.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030187.jpg,Melanoma,5,unduplicated
+561,HAM_0002838,ISIC_0030818,mel,histo,65.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030818.jpg,Melanoma,5,unduplicated
+562,HAM_0005330,ISIC_0024553,df,consensus,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0024553.jpg,Dermatofibroma,3,unduplicated
+563,HAM_0002054,ISIC_0031685,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031685.jpg,Melanocytic nevi,4,unduplicated
+564,HAM_0006088,ISIC_0028760,mel,histo,30.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0028760.jpg,Melanoma,5,unduplicated
+565,HAM_0003166,ISIC_0030848,nv,follow_up,50.0,female,foot,data/HAM10000_images_part_2/ISIC_0030848.jpg,Melanocytic nevi,4,unduplicated
+566,HAM_0003323,ISIC_0031297,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031297.jpg,Melanocytic nevi,4,unduplicated
+567,HAM_0003671,ISIC_0029373,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029373.jpg,Melanocytic nevi,4,unduplicated
+568,HAM_0005464,ISIC_0031477,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031477.jpg,Melanocytic nevi,4,unduplicated
+569,HAM_0003063,ISIC_0027576,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027576.jpg,Melanocytic nevi,4,unduplicated
+570,HAM_0001030,ISIC_0027363,nv,follow_up,30.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027363.jpg,Melanocytic nevi,4,unduplicated
+571,HAM_0003926,ISIC_0026422,bkl,consensus,80.0,male,face,data/HAM10000_images_part_1/ISIC_0026422.jpg,Benign keratosis-like lesions ,2,unduplicated
+572,HAM_0007272,ISIC_0024756,mel,histo,60.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024756.jpg,Melanoma,5,unduplicated
+573,HAM_0002557,ISIC_0025927,mel,histo,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025927.jpg,Melanoma,5,unduplicated
+574,HAM_0004227,ISIC_0029628,nv,follow_up,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0029628.jpg,Melanocytic nevi,4,unduplicated
+575,HAM_0003827,ISIC_0028350,bcc,histo,70.0,female,back,data/HAM10000_images_part_1/ISIC_0028350.jpg,Basal cell carcinoma,1,unduplicated
+576,HAM_0006405,ISIC_0031641,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031641.jpg,Melanocytic nevi,4,unduplicated
+577,HAM_0002687,ISIC_0032037,nv,follow_up,60.0,female,back,data/HAM10000_images_part_2/ISIC_0032037.jpg,Melanocytic nevi,4,unduplicated
+578,HAM_0001228,ISIC_0031717,nv,follow_up,40.0,male,back,data/HAM10000_images_part_2/ISIC_0031717.jpg,Melanocytic nevi,4,unduplicated
+579,HAM_0001996,ISIC_0031179,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031179.jpg,Melanocytic nevi,4,unduplicated
+580,HAM_0000852,ISIC_0025461,nv,follow_up,55.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025461.jpg,Melanocytic nevi,4,unduplicated
+581,HAM_0006241,ISIC_0031379,nv,histo,40.0,male,back,data/HAM10000_images_part_2/ISIC_0031379.jpg,Melanocytic nevi,4,unduplicated
+582,HAM_0005683,ISIC_0025416,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025416.jpg,Melanocytic nevi,4,unduplicated
+583,HAM_0006961,ISIC_0031792,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031792.jpg,Melanocytic nevi,4,unduplicated
+584,HAM_0007587,ISIC_0029762,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029762.jpg,Melanocytic nevi,4,unduplicated
+585,HAM_0000493,ISIC_0030304,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030304.jpg,Melanocytic nevi,4,unduplicated
+586,HAM_0000094,ISIC_0026233,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026233.jpg,Melanocytic nevi,4,unduplicated
+587,HAM_0006069,ISIC_0031681,nv,histo,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031681.jpg,Melanocytic nevi,4,unduplicated
+588,HAM_0004925,ISIC_0024873,nv,follow_up,35.0,male,back,data/HAM10000_images_part_1/ISIC_0024873.jpg,Melanocytic nevi,4,unduplicated
+589,HAM_0003213,ISIC_0031747,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031747.jpg,Melanocytic nevi,4,unduplicated
+590,HAM_0007603,ISIC_0029139,bkl,histo,60.0,male,unknown,data/HAM10000_images_part_1/ISIC_0029139.jpg,Benign keratosis-like lesions ,2,unduplicated
+591,HAM_0001382,ISIC_0028922,nv,follow_up,80.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028922.jpg,Melanocytic nevi,4,unduplicated
+592,HAM_0001524,ISIC_0032915,mel,histo,75.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032915.jpg,Melanoma,5,unduplicated
+593,HAM_0004843,ISIC_0031280,nv,follow_up,60.0,male,foot,data/HAM10000_images_part_2/ISIC_0031280.jpg,Melanocytic nevi,4,unduplicated
+594,HAM_0000803,ISIC_0025925,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025925.jpg,Melanocytic nevi,4,unduplicated
+595,HAM_0000873,ISIC_0025012,nv,follow_up,40.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025012.jpg,Melanocytic nevi,4,unduplicated
+596,HAM_0004132,ISIC_0025801,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025801.jpg,Melanocytic nevi,4,unduplicated
+597,HAM_0005858,ISIC_0028879,nv,follow_up,55.0,male,back,data/HAM10000_images_part_1/ISIC_0028879.jpg,Melanocytic nevi,4,unduplicated
+598,HAM_0003355,ISIC_0029138,nv,histo,20.0,female,back,data/HAM10000_images_part_1/ISIC_0029138.jpg,Melanocytic nevi,4,unduplicated
+599,HAM_0002855,ISIC_0026116,nv,follow_up,30.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0026116.jpg,Melanocytic nevi,4,unduplicated
+600,HAM_0002277,ISIC_0025080,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025080.jpg,Melanocytic nevi,4,unduplicated
+601,HAM_0001281,ISIC_0027048,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027048.jpg,Melanocytic nevi,4,unduplicated
+602,HAM_0001861,ISIC_0026688,nv,follow_up,70.0,male,unknown,data/HAM10000_images_part_1/ISIC_0026688.jpg,Melanocytic nevi,4,unduplicated
+603,HAM_0000152,ISIC_0032244,mel,histo,75.0,female,face,data/HAM10000_images_part_2/ISIC_0032244.jpg,Melanoma,5,unduplicated
+604,HAM_0004169,ISIC_0028482,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028482.jpg,Melanocytic nevi,4,unduplicated
+605,HAM_0003796,ISIC_0030696,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030696.jpg,Melanocytic nevi,4,unduplicated
+606,HAM_0000938,ISIC_0031916,nv,follow_up,40.0,female,foot,data/HAM10000_images_part_2/ISIC_0031916.jpg,Melanocytic nevi,4,unduplicated
+607,HAM_0006933,ISIC_0027594,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0027594.jpg,Melanocytic nevi,4,unduplicated
+608,HAM_0006176,ISIC_0027539,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027539.jpg,Melanocytic nevi,4,unduplicated
+609,HAM_0000347,ISIC_0029665,nv,histo,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029665.jpg,Melanocytic nevi,4,unduplicated
+610,HAM_0001603,ISIC_0031016,bkl,histo,70.0,male,back,data/HAM10000_images_part_2/ISIC_0031016.jpg,Benign keratosis-like lesions ,2,unduplicated
+611,HAM_0002428,ISIC_0026510,nv,follow_up,70.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026510.jpg,Melanocytic nevi,4,unduplicated
+612,HAM_0000943,ISIC_0025900,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025900.jpg,Melanocytic nevi,4,unduplicated
+613,HAM_0000265,ISIC_0027283,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027283.jpg,Melanocytic nevi,4,unduplicated
+614,HAM_0005250,ISIC_0029792,nv,histo,40.0,female,foot,data/HAM10000_images_part_2/ISIC_0029792.jpg,Melanocytic nevi,4,unduplicated
+615,HAM_0003459,ISIC_0025697,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025697.jpg,Melanocytic nevi,4,unduplicated
+616,HAM_0003285,ISIC_0029907,nv,follow_up,30.0,female,back,data/HAM10000_images_part_2/ISIC_0029907.jpg,Melanocytic nevi,4,unduplicated
+617,HAM_0005266,ISIC_0027605,nv,follow_up,60.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027605.jpg,Melanocytic nevi,4,unduplicated
+618,HAM_0007458,ISIC_0030266,nv,follow_up,55.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030266.jpg,Melanocytic nevi,4,unduplicated
+619,HAM_0007281,ISIC_0034283,bkl,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0034283.jpg,Benign keratosis-like lesions ,2,unduplicated
+620,HAM_0005508,ISIC_0032060,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0032060.jpg,Melanocytic nevi,4,unduplicated
+621,HAM_0007215,ISIC_0030294,nv,follow_up,40.0,female,back,data/HAM10000_images_part_2/ISIC_0030294.jpg,Melanocytic nevi,4,unduplicated
+622,HAM_0005022,ISIC_0027367,bkl,histo,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027367.jpg,Benign keratosis-like lesions ,2,unduplicated
+623,HAM_0004287,ISIC_0031128,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031128.jpg,Melanocytic nevi,4,unduplicated
+624,HAM_0001428,ISIC_0026268,mel,histo,80.0,male,face,data/HAM10000_images_part_1/ISIC_0026268.jpg,Melanoma,5,unduplicated
+625,HAM_0006215,ISIC_0027321,nv,follow_up,55.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027321.jpg,Melanocytic nevi,4,unduplicated
+626,HAM_0000234,ISIC_0032431,nv,follow_up,65.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0032431.jpg,Melanocytic nevi,4,unduplicated
+627,HAM_0004495,ISIC_0024743,bcc,histo,65.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024743.jpg,Basal cell carcinoma,1,unduplicated
+628,HAM_0000081,ISIC_0028072,nv,follow_up,45.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028072.jpg,Melanocytic nevi,4,unduplicated
+629,HAM_0003069,ISIC_0027344,bkl,histo,70.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027344.jpg,Benign keratosis-like lesions ,2,unduplicated
+630,HAM_0003546,ISIC_0030006,nv,histo,20.0,female,back,data/HAM10000_images_part_2/ISIC_0030006.jpg,Melanocytic nevi,4,unduplicated
+631,HAM_0001010,ISIC_0026170,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026170.jpg,Melanocytic nevi,4,unduplicated
+632,HAM_0007504,ISIC_0026359,nv,histo,60.0,male,back,data/HAM10000_images_part_1/ISIC_0026359.jpg,Melanocytic nevi,4,unduplicated
+633,HAM_0003264,ISIC_0027723,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0027723.jpg,Melanocytic nevi,4,unduplicated
+634,HAM_0007342,ISIC_0030625,nv,histo,35.0,male,back,data/HAM10000_images_part_2/ISIC_0030625.jpg,Melanocytic nevi,4,unduplicated
+635,HAM_0001093,ISIC_0032198,nv,follow_up,75.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032198.jpg,Melanocytic nevi,4,unduplicated
+636,HAM_0001761,ISIC_0026732,nv,follow_up,30.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026732.jpg,Melanocytic nevi,4,unduplicated
+637,HAM_0000670,ISIC_0026204,nv,follow_up,55.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026204.jpg,Melanocytic nevi,4,unduplicated
+638,HAM_0005963,ISIC_0028129,nv,follow_up,45.0,male,foot,data/HAM10000_images_part_1/ISIC_0028129.jpg,Melanocytic nevi,4,unduplicated
+639,HAM_0001333,ISIC_0028948,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028948.jpg,Melanocytic nevi,4,unduplicated
+640,HAM_0003065,ISIC_0031879,nv,follow_up,85.0,male,back,data/HAM10000_images_part_2/ISIC_0031879.jpg,Melanocytic nevi,4,unduplicated
+641,HAM_0002172,ISIC_0024416,nv,histo,65.0,female,back,data/HAM10000_images_part_1/ISIC_0024416.jpg,Melanocytic nevi,4,unduplicated
+642,HAM_0004273,ISIC_0028059,bcc,histo,40.0,male,back,data/HAM10000_images_part_1/ISIC_0028059.jpg,Basal cell carcinoma,1,unduplicated
+643,HAM_0003017,ISIC_0033535,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0033535.jpg,Melanocytic nevi,4,unduplicated
+644,HAM_0001073,ISIC_0027990,bkl,histo,55.0,male,scalp,data/HAM10000_images_part_1/ISIC_0027990.jpg,Benign keratosis-like lesions ,2,unduplicated
+645,HAM_0001655,ISIC_0030110,mel,histo,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030110.jpg,Melanoma,5,unduplicated
+646,HAM_0003251,ISIC_0025868,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025868.jpg,Melanocytic nevi,4,unduplicated
+647,HAM_0007127,ISIC_0032362,nv,histo,35.0,female,chest,data/HAM10000_images_part_2/ISIC_0032362.jpg,Melanocytic nevi,4,unduplicated
+648,HAM_0005422,ISIC_0030554,nv,follow_up,65.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030554.jpg,Melanocytic nevi,4,unduplicated
+649,HAM_0004415,ISIC_0024532,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024532.jpg,Melanocytic nevi,4,unduplicated
+650,HAM_0004238,ISIC_0024903,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0024903.jpg,Melanocytic nevi,4,unduplicated
+651,HAM_0000718,ISIC_0025130,akiec,histo,80.0,female,face,data/HAM10000_images_part_1/ISIC_0025130.jpg,Actinic keratoses,0,unduplicated
+652,HAM_0006621,ISIC_0026649,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026649.jpg,Melanocytic nevi,4,unduplicated
+653,HAM_0002573,ISIC_0030018,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030018.jpg,Melanocytic nevi,4,unduplicated
+654,HAM_0001311,ISIC_0031544,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031544.jpg,Melanocytic nevi,4,unduplicated
+655,HAM_0007408,ISIC_0028377,nv,follow_up,5.0,male,back,data/HAM10000_images_part_1/ISIC_0028377.jpg,Melanocytic nevi,4,unduplicated
+656,HAM_0000127,ISIC_0031375,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031375.jpg,Melanocytic nevi,4,unduplicated
+657,HAM_0000419,ISIC_0027741,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027741.jpg,Melanocytic nevi,4,unduplicated
+658,HAM_0003293,ISIC_0029010,bkl,histo,55.0,male,back,data/HAM10000_images_part_1/ISIC_0029010.jpg,Benign keratosis-like lesions ,2,unduplicated
+659,HAM_0000964,ISIC_0028919,nv,follow_up,60.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028919.jpg,Melanocytic nevi,4,unduplicated
+660,HAM_0005969,ISIC_0028257,nv,follow_up,35.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028257.jpg,Melanocytic nevi,4,unduplicated
+661,HAM_0006643,ISIC_0033982,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0033982.jpg,Melanocytic nevi,4,unduplicated
+662,HAM_0003549,ISIC_0028741,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028741.jpg,Melanocytic nevi,4,unduplicated
+663,HAM_0003379,ISIC_0030619,nv,follow_up,30.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030619.jpg,Melanocytic nevi,4,unduplicated
+664,HAM_0000915,ISIC_0030339,bcc,histo,75.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030339.jpg,Basal cell carcinoma,1,unduplicated
+665,HAM_0007489,ISIC_0028011,nv,follow_up,35.0,male,back,data/HAM10000_images_part_1/ISIC_0028011.jpg,Melanocytic nevi,4,unduplicated
+666,HAM_0004019,ISIC_0029629,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029629.jpg,Melanocytic nevi,4,unduplicated
+667,HAM_0004896,ISIC_0025369,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025369.jpg,Melanocytic nevi,4,unduplicated
+668,HAM_0005468,ISIC_0029785,nv,follow_up,70.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029785.jpg,Melanocytic nevi,4,unduplicated
+669,HAM_0001925,ISIC_0027583,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027583.jpg,Melanocytic nevi,4,unduplicated
+670,HAM_0002124,ISIC_0025175,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025175.jpg,Melanocytic nevi,4,unduplicated
+671,HAM_0000557,ISIC_0025675,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0025675.jpg,Melanocytic nevi,4,unduplicated
+672,HAM_0000153,ISIC_0031007,bcc,histo,80.0,male,face,data/HAM10000_images_part_2/ISIC_0031007.jpg,Basal cell carcinoma,1,unduplicated
+673,HAM_0007088,ISIC_0024800,akiec,histo,50.0,male,back,data/HAM10000_images_part_1/ISIC_0024800.jpg,Actinic keratoses,0,unduplicated
+674,HAM_0002263,ISIC_0030252,nv,follow_up,25.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030252.jpg,Melanocytic nevi,4,unduplicated
+675,HAM_0005066,ISIC_0030787,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030787.jpg,Melanocytic nevi,4,unduplicated
+676,HAM_0004389,ISIC_0028121,bkl,histo,65.0,female,chest,data/HAM10000_images_part_1/ISIC_0028121.jpg,Benign keratosis-like lesions ,2,unduplicated
+677,HAM_0005707,ISIC_0029821,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029821.jpg,Melanocytic nevi,4,unduplicated
+678,HAM_0001770,ISIC_0025974,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025974.jpg,Melanocytic nevi,4,unduplicated
+679,HAM_0002389,ISIC_0026701,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026701.jpg,Melanocytic nevi,4,unduplicated
+680,HAM_0000648,ISIC_0027080,nv,follow_up,65.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027080.jpg,Melanocytic nevi,4,unduplicated
+681,HAM_0001351,ISIC_0031684,nv,follow_up,50.0,female,back,data/HAM10000_images_part_2/ISIC_0031684.jpg,Melanocytic nevi,4,unduplicated
+682,HAM_0000497,ISIC_0024563,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024563.jpg,Melanocytic nevi,4,unduplicated
+683,HAM_0001398,ISIC_0027934,nv,follow_up,65.0,female,back,data/HAM10000_images_part_1/ISIC_0027934.jpg,Melanocytic nevi,4,unduplicated
+684,HAM_0005498,ISIC_0032335,bkl,histo,80.0,male,back,data/HAM10000_images_part_2/ISIC_0032335.jpg,Benign keratosis-like lesions ,2,unduplicated
+685,HAM_0004820,ISIC_0030722,vasc,consensus,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030722.jpg,Vascular lesions,6,unduplicated
+686,HAM_0003749,ISIC_0025268,mel,histo,65.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025268.jpg,Melanoma,5,unduplicated
+687,HAM_0001327,ISIC_0032489,nv,histo,45.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0032489.jpg,Melanocytic nevi,4,unduplicated
+688,HAM_0003946,ISIC_0026991,nv,histo,45.0,female,foot,data/HAM10000_images_part_1/ISIC_0026991.jpg,Melanocytic nevi,4,unduplicated
+689,HAM_0005864,ISIC_0025054,nv,follow_up,75.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025054.jpg,Melanocytic nevi,4,unduplicated
+690,HAM_0007154,ISIC_0024719,nv,follow_up,70.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0024719.jpg,Melanocytic nevi,4,unduplicated
+691,HAM_0002180,ISIC_0027479,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0027479.jpg,Melanocytic nevi,4,unduplicated
+692,HAM_0002815,ISIC_0025298,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025298.jpg,Melanocytic nevi,4,unduplicated
+693,HAM_0007290,ISIC_0025961,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025961.jpg,Melanocytic nevi,4,unduplicated
+694,HAM_0004462,ISIC_0027334,akiec,histo,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027334.jpg,Actinic keratoses,0,unduplicated
+695,HAM_0001489,ISIC_0031765,nv,follow_up,50.0,female,foot,data/HAM10000_images_part_2/ISIC_0031765.jpg,Melanocytic nevi,4,unduplicated
+696,HAM_0001352,ISIC_0029896,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029896.jpg,Melanocytic nevi,4,unduplicated
+697,HAM_0002586,ISIC_0025186,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025186.jpg,Melanocytic nevi,4,unduplicated
+698,HAM_0001879,ISIC_0024440,nv,follow_up,40.0,male,back,data/HAM10000_images_part_1/ISIC_0024440.jpg,Melanocytic nevi,4,unduplicated
+699,HAM_0001047,ISIC_0028853,nv,follow_up,35.0,female,back,data/HAM10000_images_part_1/ISIC_0028853.jpg,Melanocytic nevi,4,unduplicated
+700,HAM_0006425,ISIC_0028530,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0028530.jpg,Melanocytic nevi,4,unduplicated
+701,HAM_0000727,ISIC_0029961,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029961.jpg,Melanocytic nevi,4,unduplicated
+702,HAM_0007135,ISIC_0024460,nv,follow_up,50.0,female,neck,data/HAM10000_images_part_1/ISIC_0024460.jpg,Melanocytic nevi,4,unduplicated
+703,HAM_0005455,ISIC_0029416,nv,follow_up,40.0,female,back,data/HAM10000_images_part_2/ISIC_0029416.jpg,Melanocytic nevi,4,unduplicated
+704,HAM_0001121,ISIC_0024788,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_1/ISIC_0024788.jpg,Melanocytic nevi,4,unduplicated
+705,HAM_0002802,ISIC_0029717,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0029717.jpg,Melanocytic nevi,4,unduplicated
+706,HAM_0002320,ISIC_0025163,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025163.jpg,Melanocytic nevi,4,unduplicated
+707,HAM_0000428,ISIC_0027936,nv,follow_up,40.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0027936.jpg,Melanocytic nevi,4,unduplicated
+708,HAM_0006893,ISIC_0027084,akiec,histo,65.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027084.jpg,Actinic keratoses,0,unduplicated
+709,HAM_0002458,ISIC_0026155,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026155.jpg,Melanocytic nevi,4,unduplicated
+710,HAM_0000783,ISIC_0025633,nv,histo,60.0,male,back,data/HAM10000_images_part_1/ISIC_0025633.jpg,Melanocytic nevi,4,unduplicated
+711,HAM_0000034,ISIC_0032411,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032411.jpg,Melanocytic nevi,4,unduplicated
+712,HAM_0007550,ISIC_0026528,bcc,histo,70.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026528.jpg,Basal cell carcinoma,1,unduplicated
+713,HAM_0005778,ISIC_0028001,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0028001.jpg,Melanocytic nevi,4,unduplicated
+714,HAM_0000535,ISIC_0032353,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032353.jpg,Melanocytic nevi,4,unduplicated
+715,HAM_0001266,ISIC_0029909,mel,histo,75.0,female,ear,data/HAM10000_images_part_2/ISIC_0029909.jpg,Melanoma,5,unduplicated
+716,HAM_0003538,ISIC_0031246,nv,follow_up,55.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031246.jpg,Melanocytic nevi,4,unduplicated
+717,HAM_0005153,ISIC_0030847,nv,histo,65.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030847.jpg,Melanocytic nevi,4,unduplicated
+718,HAM_0003389,ISIC_0031122,bcc,histo,65.0,male,chest,data/HAM10000_images_part_2/ISIC_0031122.jpg,Basal cell carcinoma,1,unduplicated
+719,HAM_0005872,ISIC_0030518,nv,follow_up,65.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030518.jpg,Melanocytic nevi,4,unduplicated
+720,HAM_0000945,ISIC_0031104,nv,follow_up,60.0,female,foot,data/HAM10000_images_part_2/ISIC_0031104.jpg,Melanocytic nevi,4,unduplicated
+721,HAM_0004727,ISIC_0028250,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028250.jpg,Melanocytic nevi,4,unduplicated
+722,HAM_0002311,ISIC_0028514,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028514.jpg,Melanocytic nevi,4,unduplicated
+723,HAM_0005418,ISIC_0029957,nv,follow_up,65.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0029957.jpg,Melanocytic nevi,4,unduplicated
+724,HAM_0004416,ISIC_0027947,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027947.jpg,Melanocytic nevi,4,unduplicated
+725,HAM_0005996,ISIC_0031338,nv,follow_up,55.0,female,back,data/HAM10000_images_part_2/ISIC_0031338.jpg,Melanocytic nevi,4,unduplicated
+726,HAM_0002871,ISIC_0027044,df,consensus,35.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027044.jpg,Dermatofibroma,3,unduplicated
+727,HAM_0004899,ISIC_0027930,akiec,histo,60.0,male,scalp,data/HAM10000_images_part_1/ISIC_0027930.jpg,Actinic keratoses,0,unduplicated
+728,HAM_0000607,ISIC_0025431,bkl,consensus,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025431.jpg,Benign keratosis-like lesions ,2,unduplicated
+729,HAM_0003234,ISIC_0032467,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032467.jpg,Melanocytic nevi,4,unduplicated
+730,HAM_0001940,ISIC_0028502,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0028502.jpg,Melanocytic nevi,4,unduplicated
+731,HAM_0000984,ISIC_0024376,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0024376.jpg,Melanocytic nevi,4,unduplicated
+732,HAM_0000834,ISIC_0029989,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0029989.jpg,Melanocytic nevi,4,unduplicated
+733,HAM_0007595,ISIC_0025288,nv,follow_up,65.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025288.jpg,Melanocytic nevi,4,unduplicated
+734,HAM_0007151,ISIC_0029793,bkl,consensus,70.0,female,trunk,data/HAM10000_images_part_2/ISIC_0029793.jpg,Benign keratosis-like lesions ,2,unduplicated
+735,HAM_0001526,ISIC_0027795,akiec,histo,70.0,male,ear,data/HAM10000_images_part_1/ISIC_0027795.jpg,Actinic keratoses,0,unduplicated
+736,HAM_0004345,ISIC_0033208,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0033208.jpg,Melanocytic nevi,4,unduplicated
+737,HAM_0006647,ISIC_0030895,nv,follow_up,55.0,male,foot,data/HAM10000_images_part_2/ISIC_0030895.jpg,Melanocytic nevi,4,unduplicated
+738,HAM_0004357,ISIC_0027985,nv,follow_up,55.0,female,foot,data/HAM10000_images_part_1/ISIC_0027985.jpg,Melanocytic nevi,4,unduplicated
+739,HAM_0005025,ISIC_0032261,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032261.jpg,Melanocytic nevi,4,unduplicated
+740,HAM_0004612,ISIC_0031333,nv,follow_up,50.0,female,hand,data/HAM10000_images_part_2/ISIC_0031333.jpg,Melanocytic nevi,4,unduplicated
+741,HAM_0003118,ISIC_0026483,nv,follow_up,65.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026483.jpg,Melanocytic nevi,4,unduplicated
+742,HAM_0002539,ISIC_0027422,nv,follow_up,55.0,female,back,data/HAM10000_images_part_1/ISIC_0027422.jpg,Melanocytic nevi,4,unduplicated
+743,HAM_0001051,ISIC_0024686,nv,follow_up,35.0,male,back,data/HAM10000_images_part_1/ISIC_0024686.jpg,Melanocytic nevi,4,unduplicated
+744,HAM_0004749,ISIC_0024543,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024543.jpg,Melanocytic nevi,4,unduplicated
+745,HAM_0000673,ISIC_0029659,akiec,histo,70.0,female,face,data/HAM10000_images_part_2/ISIC_0029659.jpg,Actinic keratoses,0,unduplicated
+746,HAM_0002310,ISIC_0025848,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025848.jpg,Melanocytic nevi,4,unduplicated
+747,HAM_0004290,ISIC_0031184,nv,follow_up,40.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031184.jpg,Melanocytic nevi,4,unduplicated
+748,HAM_0003260,ISIC_0029345,bkl,consensus,80.0,male,back,data/HAM10000_images_part_2/ISIC_0029345.jpg,Benign keratosis-like lesions ,2,unduplicated
+749,HAM_0006259,ISIC_0027785,nv,follow_up,45.0,female,foot,data/HAM10000_images_part_1/ISIC_0027785.jpg,Melanocytic nevi,4,unduplicated
+750,HAM_0002059,ISIC_0028061,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028061.jpg,Melanocytic nevi,4,unduplicated
+751,HAM_0001298,ISIC_0024731,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024731.jpg,Melanocytic nevi,4,unduplicated
+752,HAM_0001450,ISIC_0030771,nv,histo,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030771.jpg,Melanocytic nevi,4,unduplicated
+753,HAM_0004322,ISIC_0027142,bkl,consensus,55.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027142.jpg,Benign keratosis-like lesions ,2,unduplicated
+754,HAM_0004134,ISIC_0026075,nv,follow_up,30.0,male,back,data/HAM10000_images_part_1/ISIC_0026075.jpg,Melanocytic nevi,4,unduplicated
+755,HAM_0004430,ISIC_0032789,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0032789.jpg,Melanocytic nevi,4,unduplicated
+756,HAM_0004281,ISIC_0028965,mel,histo,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028965.jpg,Melanoma,5,unduplicated
+757,HAM_0005616,ISIC_0029107,bkl,consensus,80.0,male,face,data/HAM10000_images_part_1/ISIC_0029107.jpg,Benign keratosis-like lesions ,2,unduplicated
+758,HAM_0005221,ISIC_0029019,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0029019.jpg,Melanocytic nevi,4,unduplicated
+759,HAM_0002925,ISIC_0025338,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025338.jpg,Melanocytic nevi,4,unduplicated
+760,HAM_0000729,ISIC_0030120,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030120.jpg,Melanocytic nevi,4,unduplicated
+761,HAM_0003868,ISIC_0024708,bkl,histo,80.0,male,back,data/HAM10000_images_part_1/ISIC_0024708.jpg,Benign keratosis-like lesions ,2,unduplicated
+762,HAM_0006867,ISIC_0032147,nv,follow_up,30.0,male,back,data/HAM10000_images_part_2/ISIC_0032147.jpg,Melanocytic nevi,4,unduplicated
+763,HAM_0001208,ISIC_0026047,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026047.jpg,Melanocytic nevi,4,unduplicated
+764,HAM_0001921,ISIC_0032205,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0032205.jpg,Melanocytic nevi,4,unduplicated
+765,HAM_0004675,ISIC_0031411,nv,histo,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031411.jpg,Melanocytic nevi,4,unduplicated
+766,HAM_0004274,ISIC_0025842,bkl,histo,60.0,female,neck,data/HAM10000_images_part_1/ISIC_0025842.jpg,Benign keratosis-like lesions ,2,unduplicated
+767,HAM_0007158,ISIC_0027206,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027206.jpg,Melanocytic nevi,4,unduplicated
+768,HAM_0002545,ISIC_0029149,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029149.jpg,Melanocytic nevi,4,unduplicated
+769,HAM_0002688,ISIC_0025348,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025348.jpg,Melanocytic nevi,4,unduplicated
+770,HAM_0004488,ISIC_0030601,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030601.jpg,Melanocytic nevi,4,unduplicated
+771,HAM_0002499,ISIC_0024600,nv,follow_up,50.0,female,genital,data/HAM10000_images_part_1/ISIC_0024600.jpg,Melanocytic nevi,4,unduplicated
+772,HAM_0003144,ISIC_0032135,akiec,histo,65.0,female,face,data/HAM10000_images_part_2/ISIC_0032135.jpg,Actinic keratoses,0,unduplicated
+773,HAM_0002239,ISIC_0028021,nv,follow_up,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028021.jpg,Melanocytic nevi,4,unduplicated
+774,HAM_0007457,ISIC_0029813,nv,follow_up,35.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029813.jpg,Melanocytic nevi,4,unduplicated
+775,HAM_0005774,ISIC_0031137,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031137.jpg,Melanocytic nevi,4,unduplicated
+776,HAM_0007521,ISIC_0032156,bkl,histo,70.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032156.jpg,Benign keratosis-like lesions ,2,unduplicated
+777,HAM_0004671,ISIC_0026013,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0026013.jpg,Melanocytic nevi,4,unduplicated
+778,HAM_0005622,ISIC_0030213,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030213.jpg,Melanocytic nevi,4,unduplicated
+779,HAM_0004166,ISIC_0028313,nv,follow_up,45.0,male,back,data/HAM10000_images_part_1/ISIC_0028313.jpg,Melanocytic nevi,4,unduplicated
+780,HAM_0005690,ISIC_0025487,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025487.jpg,Melanocytic nevi,4,unduplicated
+781,HAM_0000180,ISIC_0029086,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029086.jpg,Melanocytic nevi,4,unduplicated
+782,HAM_0004235,ISIC_0030452,bcc,histo,80.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030452.jpg,Basal cell carcinoma,1,unduplicated
+783,HAM_0004182,ISIC_0032591,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0032591.jpg,Melanocytic nevi,4,unduplicated
+784,HAM_0002254,ISIC_0028027,nv,follow_up,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028027.jpg,Melanocytic nevi,4,unduplicated
+785,HAM_0006052,ISIC_0025476,nv,histo,60.0,female,face,data/HAM10000_images_part_1/ISIC_0025476.jpg,Melanocytic nevi,4,unduplicated
+786,HAM_0005958,ISIC_0027577,akiec,histo,55.0,male,face,data/HAM10000_images_part_1/ISIC_0027577.jpg,Actinic keratoses,0,unduplicated
+787,HAM_0005639,ISIC_0030657,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030657.jpg,Melanocytic nevi,4,unduplicated
+788,HAM_0000681,ISIC_0032032,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032032.jpg,Melanocytic nevi,4,unduplicated
+789,HAM_0003703,ISIC_0030468,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030468.jpg,Melanocytic nevi,4,unduplicated
+790,HAM_0000330,ISIC_0030824,mel,histo,60.0,male,chest,data/HAM10000_images_part_2/ISIC_0030824.jpg,Melanoma,5,unduplicated
+791,HAM_0006270,ISIC_0031606,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031606.jpg,Melanocytic nevi,4,unduplicated
+792,HAM_0004207,ISIC_0033858,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0033858.jpg,Melanocytic nevi,4,unduplicated
+793,HAM_0002212,ISIC_0029988,nv,follow_up,40.0,male,back,data/HAM10000_images_part_2/ISIC_0029988.jpg,Melanocytic nevi,4,unduplicated
+794,HAM_0000770,ISIC_0024741,bkl,histo,75.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024741.jpg,Benign keratosis-like lesions ,2,unduplicated
+795,HAM_0003914,ISIC_0029300,nv,follow_up,45.0,male,genital,data/HAM10000_images_part_1/ISIC_0029300.jpg,Melanocytic nevi,4,unduplicated
+796,HAM_0002315,ISIC_0028312,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028312.jpg,Melanocytic nevi,4,unduplicated
+797,HAM_0001836,ISIC_0030500,nv,follow_up,40.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030500.jpg,Melanocytic nevi,4,unduplicated
+798,HAM_0002410,ISIC_0026639,nv,follow_up,45.0,female,genital,data/HAM10000_images_part_1/ISIC_0026639.jpg,Melanocytic nevi,4,unduplicated
+799,HAM_0006193,ISIC_0029877,vasc,consensus,80.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029877.jpg,Vascular lesions,6,unduplicated
+800,HAM_0007273,ISIC_0025437,nv,follow_up,40.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025437.jpg,Melanocytic nevi,4,unduplicated
+801,HAM_0001502,ISIC_0027482,nv,follow_up,55.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027482.jpg,Melanocytic nevi,4,unduplicated
+802,HAM_0000033,ISIC_0031861,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031861.jpg,Melanocytic nevi,4,unduplicated
+803,HAM_0000575,ISIC_0029936,nv,follow_up,30.0,male,back,data/HAM10000_images_part_2/ISIC_0029936.jpg,Melanocytic nevi,4,unduplicated
+804,HAM_0000739,ISIC_0025561,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025561.jpg,Melanocytic nevi,4,unduplicated
+805,HAM_0004342,ISIC_0027976,bcc,histo,80.0,male,back,data/HAM10000_images_part_1/ISIC_0027976.jpg,Basal cell carcinoma,1,unduplicated
+806,HAM_0004115,ISIC_0027676,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027676.jpg,Melanocytic nevi,4,unduplicated
+807,HAM_0005170,ISIC_0026253,nv,follow_up,80.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026253.jpg,Melanocytic nevi,4,unduplicated
+808,HAM_0005302,ISIC_0031539,bcc,histo,75.0,male,back,data/HAM10000_images_part_2/ISIC_0031539.jpg,Basal cell carcinoma,1,unduplicated
+809,HAM_0006217,ISIC_0031043,akiec,histo,85.0,male,face,data/HAM10000_images_part_2/ISIC_0031043.jpg,Actinic keratoses,0,unduplicated
+810,HAM_0001408,ISIC_0031004,nv,follow_up,80.0,male,back,data/HAM10000_images_part_2/ISIC_0031004.jpg,Melanocytic nevi,4,unduplicated
+811,HAM_0005582,ISIC_0030433,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030433.jpg,Melanocytic nevi,4,unduplicated
+812,HAM_0006928,ISIC_0028097,nv,follow_up,55.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028097.jpg,Melanocytic nevi,4,unduplicated
+813,HAM_0002629,ISIC_0024551,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024551.jpg,Melanocytic nevi,4,unduplicated
+814,HAM_0006492,ISIC_0031092,nv,histo,35.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031092.jpg,Melanocytic nevi,4,unduplicated
+815,HAM_0001000,ISIC_0033353,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0033353.jpg,Melanocytic nevi,4,unduplicated
+816,HAM_0002763,ISIC_0026884,nv,follow_up,80.0,male,back,data/HAM10000_images_part_1/ISIC_0026884.jpg,Melanocytic nevi,4,unduplicated
+817,HAM_0001992,ISIC_0025399,nv,follow_up,30.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025399.jpg,Melanocytic nevi,4,unduplicated
+818,HAM_0000283,ISIC_0025159,nv,follow_up,35.0,female,back,data/HAM10000_images_part_1/ISIC_0025159.jpg,Melanocytic nevi,4,unduplicated
+819,HAM_0005626,ISIC_0031619,bkl,consensus,65.0,male,face,data/HAM10000_images_part_2/ISIC_0031619.jpg,Benign keratosis-like lesions ,2,unduplicated
+820,HAM_0004026,ISIC_0030357,nv,follow_up,50.0,female,back,data/HAM10000_images_part_2/ISIC_0030357.jpg,Melanocytic nevi,4,unduplicated
+821,HAM_0003427,ISIC_0032959,bcc,histo,50.0,male,face,data/HAM10000_images_part_2/ISIC_0032959.jpg,Basal cell carcinoma,1,unduplicated
+822,HAM_0006087,ISIC_0032094,nv,follow_up,45.0,male,back,data/HAM10000_images_part_2/ISIC_0032094.jpg,Melanocytic nevi,4,unduplicated
+823,HAM_0004832,ISIC_0024709,bkl,histo,65.0,female,hand,data/HAM10000_images_part_1/ISIC_0024709.jpg,Benign keratosis-like lesions ,2,unduplicated
+824,HAM_0003985,ISIC_0025570,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025570.jpg,Melanocytic nevi,4,unduplicated
+825,HAM_0007478,ISIC_0033040,nv,consensus,30.0,male,back,data/HAM10000_images_part_2/ISIC_0033040.jpg,Melanocytic nevi,4,unduplicated
+826,HAM_0005871,ISIC_0032080,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032080.jpg,Melanocytic nevi,4,unduplicated
+827,HAM_0004916,ISIC_0026010,nv,follow_up,35.0,female,foot,data/HAM10000_images_part_1/ISIC_0026010.jpg,Melanocytic nevi,4,unduplicated
+828,HAM_0006236,ISIC_0033741,nv,consensus,60.0,male,unknown,data/HAM10000_images_part_2/ISIC_0033741.jpg,Melanocytic nevi,4,unduplicated
+829,HAM_0000533,ISIC_0026380,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026380.jpg,Melanocytic nevi,4,unduplicated
+830,HAM_0005694,ISIC_0030753,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030753.jpg,Melanocytic nevi,4,unduplicated
+831,HAM_0003503,ISIC_0027555,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027555.jpg,Melanocytic nevi,4,unduplicated
+832,HAM_0002794,ISIC_0031596,nv,histo,55.0,female,back,data/HAM10000_images_part_2/ISIC_0031596.jpg,Melanocytic nevi,4,unduplicated
+833,HAM_0001156,ISIC_0030811,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030811.jpg,Melanocytic nevi,4,unduplicated
+834,HAM_0000038,ISIC_0026057,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026057.jpg,Melanocytic nevi,4,unduplicated
+835,HAM_0007240,ISIC_0027988,nv,histo,65.0,female,back,data/HAM10000_images_part_1/ISIC_0027988.jpg,Melanocytic nevi,4,unduplicated
+836,HAM_0002640,ISIC_0030337,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_2/ISIC_0030337.jpg,Melanocytic nevi,4,unduplicated
+837,HAM_0005875,ISIC_0032250,nv,follow_up,45.0,male,back,data/HAM10000_images_part_2/ISIC_0032250.jpg,Melanocytic nevi,4,unduplicated
+838,HAM_0001374,ISIC_0029946,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0029946.jpg,Melanocytic nevi,4,unduplicated
+839,HAM_0007079,ISIC_0029904,nv,histo,35.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0029904.jpg,Melanocytic nevi,4,unduplicated
+840,HAM_0004613,ISIC_0031938,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031938.jpg,Melanocytic nevi,4,unduplicated
+841,HAM_0006845,ISIC_0030170,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030170.jpg,Melanocytic nevi,4,unduplicated
+842,HAM_0007505,ISIC_0027061,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027061.jpg,Melanocytic nevi,4,unduplicated
+843,HAM_0000308,ISIC_0025136,bkl,histo,55.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025136.jpg,Benign keratosis-like lesions ,2,unduplicated
+844,HAM_0005882,ISIC_0025666,nv,follow_up,50.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0025666.jpg,Melanocytic nevi,4,unduplicated
+845,HAM_0002638,ISIC_0028096,nv,follow_up,70.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028096.jpg,Melanocytic nevi,4,unduplicated
+846,HAM_0002140,ISIC_0032472,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0032472.jpg,Melanocytic nevi,4,unduplicated
+847,HAM_0002774,ISIC_0029683,bkl,histo,65.0,male,unknown,data/HAM10000_images_part_2/ISIC_0029683.jpg,Benign keratosis-like lesions ,2,unduplicated
+848,HAM_0006048,ISIC_0030064,nv,histo,25.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030064.jpg,Melanocytic nevi,4,unduplicated
+849,HAM_0002826,ISIC_0028334,nv,follow_up,30.0,female,trunk,data/HAM10000_images_part_1/ISIC_0028334.jpg,Melanocytic nevi,4,unduplicated
+850,HAM_0003944,ISIC_0026672,nv,histo,80.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026672.jpg,Melanocytic nevi,4,unduplicated
+851,HAM_0001009,ISIC_0029401,nv,consensus,35.0,male,foot,data/HAM10000_images_part_2/ISIC_0029401.jpg,Melanocytic nevi,4,unduplicated
+852,HAM_0005548,ISIC_0027632,nv,follow_up,50.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027632.jpg,Melanocytic nevi,4,unduplicated
+853,HAM_0003486,ISIC_0029494,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0029494.jpg,Melanocytic nevi,4,unduplicated
+854,HAM_0002945,ISIC_0029077,nv,follow_up,30.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0029077.jpg,Melanocytic nevi,4,unduplicated
+855,HAM_0004540,ISIC_0027357,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0027357.jpg,Melanocytic nevi,4,unduplicated
+856,HAM_0001064,ISIC_0031797,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031797.jpg,Melanocytic nevi,4,unduplicated
+857,HAM_0002930,ISIC_0026994,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026994.jpg,Melanocytic nevi,4,unduplicated
+858,HAM_0004633,ISIC_0025772,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025772.jpg,Melanocytic nevi,4,unduplicated
+859,HAM_0004526,ISIC_0032106,nv,follow_up,45.0,male,back,data/HAM10000_images_part_2/ISIC_0032106.jpg,Melanocytic nevi,4,unduplicated
+860,HAM_0001999,ISIC_0025884,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025884.jpg,Melanocytic nevi,4,unduplicated
+861,HAM_0001752,ISIC_0028925,bkl,consensus,70.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028925.jpg,Benign keratosis-like lesions ,2,unduplicated
+862,HAM_0005842,ISIC_0027601,bcc,histo,75.0,female,back,data/HAM10000_images_part_1/ISIC_0027601.jpg,Basal cell carcinoma,1,unduplicated
+863,HAM_0007035,ISIC_0030332,nv,follow_up,55.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0030332.jpg,Melanocytic nevi,4,unduplicated
+864,HAM_0000340,ISIC_0026397,nv,follow_up,80.0,male,back,data/HAM10000_images_part_1/ISIC_0026397.jpg,Melanocytic nevi,4,unduplicated
+865,HAM_0007001,ISIC_0026573,nv,histo,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026573.jpg,Melanocytic nevi,4,unduplicated
+866,HAM_0000024,ISIC_0027141,df,consensus,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027141.jpg,Dermatofibroma,3,unduplicated
+867,HAM_0005406,ISIC_0027807,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027807.jpg,Melanocytic nevi,4,unduplicated
+868,HAM_0006987,ISIC_0027649,bkl,histo,85.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0027649.jpg,Benign keratosis-like lesions ,2,unduplicated
+869,HAM_0000010,ISIC_0027730,nv,follow_up,70.0,female,back,data/HAM10000_images_part_1/ISIC_0027730.jpg,Melanocytic nevi,4,unduplicated
+870,HAM_0003748,ISIC_0031051,nv,follow_up,40.0,male,chest,data/HAM10000_images_part_2/ISIC_0031051.jpg,Melanocytic nevi,4,unduplicated
+871,HAM_0007584,ISIC_0025139,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025139.jpg,Melanocytic nevi,4,unduplicated
+872,HAM_0000680,ISIC_0028927,nv,follow_up,70.0,male,back,data/HAM10000_images_part_1/ISIC_0028927.jpg,Melanocytic nevi,4,unduplicated
+873,HAM_0006365,ISIC_0028296,nv,follow_up,80.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028296.jpg,Melanocytic nevi,4,unduplicated
+874,HAM_0001383,ISIC_0027700,akiec,histo,80.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0027700.jpg,Actinic keratoses,0,unduplicated
+875,HAM_0006597,ISIC_0028657,nv,follow_up,70.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028657.jpg,Melanocytic nevi,4,unduplicated
+876,HAM_0001784,ISIC_0026450,nv,follow_up,35.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026450.jpg,Melanocytic nevi,4,unduplicated
+877,HAM_0000845,ISIC_0025244,vasc,consensus,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025244.jpg,Vascular lesions,6,unduplicated
+878,HAM_0005507,ISIC_0029159,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0029159.jpg,Melanocytic nevi,4,unduplicated
+879,HAM_0001007,ISIC_0031758,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031758.jpg,Melanocytic nevi,4,unduplicated
+880,HAM_0002333,ISIC_0031405,nv,histo,45.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031405.jpg,Melanocytic nevi,4,unduplicated
+881,HAM_0001845,ISIC_0026462,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026462.jpg,Melanocytic nevi,4,unduplicated
+882,HAM_0007580,ISIC_0027877,nv,follow_up,25.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027877.jpg,Melanocytic nevi,4,unduplicated
+883,HAM_0005005,ISIC_0031920,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031920.jpg,Melanocytic nevi,4,unduplicated
+884,HAM_0001716,ISIC_0026901,nv,histo,50.0,male,back,data/HAM10000_images_part_1/ISIC_0026901.jpg,Melanocytic nevi,4,unduplicated
+885,HAM_0002023,ISIC_0028540,nv,histo,25.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028540.jpg,Melanocytic nevi,4,unduplicated
+886,HAM_0002453,ISIC_0029921,nv,follow_up,30.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029921.jpg,Melanocytic nevi,4,unduplicated
+887,HAM_0001262,ISIC_0026677,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026677.jpg,Melanocytic nevi,4,unduplicated
+888,HAM_0000875,ISIC_0031022,nv,follow_up,60.0,male,back,data/HAM10000_images_part_2/ISIC_0031022.jpg,Melanocytic nevi,4,unduplicated
+889,HAM_0003404,ISIC_0029797,nv,follow_up,35.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0029797.jpg,Melanocytic nevi,4,unduplicated
+890,HAM_0000491,ISIC_0028207,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028207.jpg,Melanocytic nevi,4,unduplicated
+891,HAM_0005623,ISIC_0030616,mel,histo,80.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030616.jpg,Melanoma,5,unduplicated
+892,HAM_0000422,ISIC_0027664,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027664.jpg,Melanocytic nevi,4,unduplicated
+893,HAM_0005827,ISIC_0026119,nv,follow_up,60.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0026119.jpg,Melanocytic nevi,4,unduplicated
+894,HAM_0006506,ISIC_0028408,nv,histo,55.0,male,back,data/HAM10000_images_part_1/ISIC_0028408.jpg,Melanocytic nevi,4,unduplicated
+895,HAM_0006732,ISIC_0024336,bkl,histo,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024336.jpg,Benign keratosis-like lesions ,2,unduplicated
+896,HAM_0001226,ISIC_0030636,bkl,histo,70.0,female,back,data/HAM10000_images_part_2/ISIC_0030636.jpg,Benign keratosis-like lesions ,2,unduplicated
+897,HAM_0004725,ISIC_0032507,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_2/ISIC_0032507.jpg,Melanocytic nevi,4,unduplicated
+898,HAM_0004971,ISIC_0028836,nv,follow_up,20.0,female,back,data/HAM10000_images_part_1/ISIC_0028836.jpg,Melanocytic nevi,4,unduplicated
+899,HAM_0004602,ISIC_0031240,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031240.jpg,Melanocytic nevi,4,unduplicated
+900,HAM_0004266,ISIC_0024483,nv,follow_up,25.0,female,upper extremity,data/HAM10000_images_part_1/ISIC_0024483.jpg,Melanocytic nevi,4,unduplicated
+901,HAM_0000667,ISIC_0028551,nv,histo,75.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028551.jpg,Melanocytic nevi,4,unduplicated
+902,HAM_0000495,ISIC_0030200,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030200.jpg,Melanocytic nevi,4,unduplicated
+903,HAM_0000564,ISIC_0027333,nv,follow_up,40.0,male,foot,data/HAM10000_images_part_1/ISIC_0027333.jpg,Melanocytic nevi,4,unduplicated
+904,HAM_0005806,ISIC_0024980,nv,follow_up,55.0,male,back,data/HAM10000_images_part_1/ISIC_0024980.jpg,Melanocytic nevi,4,unduplicated
+905,HAM_0006963,ISIC_0032351,nv,follow_up,55.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032351.jpg,Melanocytic nevi,4,unduplicated
+906,HAM_0005104,ISIC_0030204,nv,follow_up,35.0,male,back,data/HAM10000_images_part_2/ISIC_0030204.jpg,Melanocytic nevi,4,unduplicated
+907,HAM_0001725,ISIC_0027509,bkl,histo,60.0,female,face,data/HAM10000_images_part_1/ISIC_0027509.jpg,Benign keratosis-like lesions ,2,unduplicated
+908,HAM_0004741,ISIC_0031687,nv,follow_up,65.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0031687.jpg,Melanocytic nevi,4,unduplicated
+909,HAM_0002382,ISIC_0025916,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025916.jpg,Melanocytic nevi,4,unduplicated
+910,HAM_0001236,ISIC_0030615,nv,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0030615.jpg,Melanocytic nevi,4,unduplicated
+911,HAM_0005357,ISIC_0029981,nv,follow_up,40.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0029981.jpg,Melanocytic nevi,4,unduplicated
+912,HAM_0005466,ISIC_0024721,nv,histo,35.0,male,chest,data/HAM10000_images_part_1/ISIC_0024721.jpg,Melanocytic nevi,4,unduplicated
+913,HAM_0001939,ISIC_0025468,nv,follow_up,70.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025468.jpg,Melanocytic nevi,4,unduplicated
+914,HAM_0001029,ISIC_0024384,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024384.jpg,Melanocytic nevi,4,unduplicated
+915,HAM_0001748,ISIC_0031739,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031739.jpg,Melanocytic nevi,4,unduplicated
+916,HAM_0000278,ISIC_0024484,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0024484.jpg,Melanocytic nevi,4,unduplicated
+917,HAM_0003231,ISIC_0025028,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0025028.jpg,Melanocytic nevi,4,unduplicated
+918,HAM_0003074,ISIC_0029816,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0029816.jpg,Melanocytic nevi,4,unduplicated
+919,HAM_0004959,ISIC_0028262,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028262.jpg,Melanocytic nevi,4,unduplicated
+920,HAM_0005646,ISIC_0029753,nv,follow_up,55.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0029753.jpg,Melanocytic nevi,4,unduplicated
+921,HAM_0003082,ISIC_0029579,nv,follow_up,30.0,female,neck,data/HAM10000_images_part_2/ISIC_0029579.jpg,Melanocytic nevi,4,unduplicated
+922,HAM_0002019,ISIC_0030402,nv,follow_up,60.0,male,back,data/HAM10000_images_part_2/ISIC_0030402.jpg,Melanocytic nevi,4,unduplicated
+923,HAM_0005825,ISIC_0027304,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027304.jpg,Melanocytic nevi,4,unduplicated
+924,HAM_0000558,ISIC_0027547,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027547.jpg,Melanocytic nevi,4,unduplicated
+925,HAM_0007577,ISIC_0030305,nv,histo,25.0,male,back,data/HAM10000_images_part_2/ISIC_0030305.jpg,Melanocytic nevi,4,unduplicated
+926,HAM_0004644,ISIC_0031232,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031232.jpg,Melanocytic nevi,4,unduplicated
+927,HAM_0004561,ISIC_0024775,nv,follow_up,50.0,female,back,data/HAM10000_images_part_1/ISIC_0024775.jpg,Melanocytic nevi,4,unduplicated
+928,HAM_0001643,ISIC_0025000,nv,histo,45.0,female,foot,data/HAM10000_images_part_1/ISIC_0025000.jpg,Melanocytic nevi,4,unduplicated
+929,HAM_0006862,ISIC_0025296,nv,follow_up,50.0,female,trunk,data/HAM10000_images_part_1/ISIC_0025296.jpg,Melanocytic nevi,4,unduplicated
+930,HAM_0003595,ISIC_0027621,nv,follow_up,40.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027621.jpg,Melanocytic nevi,4,unduplicated
+931,HAM_0001173,ISIC_0030827,akiec,histo,40.0,female,face,data/HAM10000_images_part_2/ISIC_0030827.jpg,Actinic keratoses,0,unduplicated
+932,HAM_0004580,ISIC_0030872,nv,follow_up,80.0,male,back,data/HAM10000_images_part_2/ISIC_0030872.jpg,Melanocytic nevi,4,unduplicated
+933,HAM_0006536,ISIC_0032171,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0032171.jpg,Melanocytic nevi,4,unduplicated
+934,HAM_0003956,ISIC_0030190,nv,follow_up,55.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0030190.jpg,Melanocytic nevi,4,unduplicated
+935,HAM_0003669,ISIC_0030096,bcc,histo,65.0,male,chest,data/HAM10000_images_part_2/ISIC_0030096.jpg,Basal cell carcinoma,1,unduplicated
+936,HAM_0000813,ISIC_0024395,nv,follow_up,60.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0024395.jpg,Melanocytic nevi,4,unduplicated
+937,HAM_0000566,ISIC_0026794,bkl,histo,60.0,female,face,data/HAM10000_images_part_1/ISIC_0026794.jpg,Benign keratosis-like lesions ,2,unduplicated
+938,HAM_0000355,ISIC_0027842,nv,follow_up,30.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027842.jpg,Melanocytic nevi,4,unduplicated
+939,HAM_0000444,ISIC_0029118,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0029118.jpg,Melanocytic nevi,4,unduplicated
+940,HAM_0002255,ISIC_0030726,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030726.jpg,Melanocytic nevi,4,unduplicated
+941,HAM_0002361,ISIC_0026285,nv,follow_up,65.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0026285.jpg,Melanocytic nevi,4,unduplicated
+942,HAM_0003519,ISIC_0026627,nv,follow_up,55.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026627.jpg,Melanocytic nevi,4,unduplicated
+943,HAM_0004452,ISIC_0027381,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027381.jpg,Melanocytic nevi,4,unduplicated
+944,HAM_0006579,ISIC_0030668,nv,follow_up,40.0,female,foot,data/HAM10000_images_part_2/ISIC_0030668.jpg,Melanocytic nevi,4,unduplicated
+945,HAM_0005688,ISIC_0027186,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027186.jpg,Melanocytic nevi,4,unduplicated
+946,HAM_0002530,ISIC_0028239,nv,follow_up,45.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028239.jpg,Melanocytic nevi,4,unduplicated
+947,HAM_0006606,ISIC_0028794,nv,follow_up,50.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0028794.jpg,Melanocytic nevi,4,unduplicated
+948,HAM_0005574,ISIC_0027823,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027823.jpg,Melanocytic nevi,4,unduplicated
+949,HAM_0004509,ISIC_0028028,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0028028.jpg,Melanocytic nevi,4,unduplicated
+950,HAM_0004831,ISIC_0025144,bcc,histo,75.0,male,back,data/HAM10000_images_part_1/ISIC_0025144.jpg,Basal cell carcinoma,1,unduplicated
+951,HAM_0000513,ISIC_0032207,mel,histo,35.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032207.jpg,Melanoma,5,unduplicated
+952,HAM_0000305,ISIC_0030815,nv,follow_up,50.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0030815.jpg,Melanocytic nevi,4,unduplicated
+953,HAM_0005338,ISIC_0031577,bkl,consensus,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031577.jpg,Benign keratosis-like lesions ,2,unduplicated
+954,HAM_0000253,ISIC_0030012,nv,follow_up,45.0,male,back,data/HAM10000_images_part_2/ISIC_0030012.jpg,Melanocytic nevi,4,unduplicated
+955,HAM_0001085,ISIC_0025919,nv,follow_up,75.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0025919.jpg,Melanocytic nevi,4,unduplicated
+956,HAM_0006927,ISIC_0026312,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026312.jpg,Melanocytic nevi,4,unduplicated
+957,HAM_0003916,ISIC_0032370,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0032370.jpg,Melanocytic nevi,4,unduplicated
+958,HAM_0001395,ISIC_0031818,nv,follow_up,50.0,female,foot,data/HAM10000_images_part_2/ISIC_0031818.jpg,Melanocytic nevi,4,unduplicated
+959,HAM_0004014,ISIC_0029809,nv,histo,45.0,male,chest,data/HAM10000_images_part_2/ISIC_0029809.jpg,Melanocytic nevi,4,unduplicated
+960,HAM_0006480,ISIC_0026536,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0026536.jpg,Melanocytic nevi,4,unduplicated
+961,HAM_0004097,ISIC_0025677,vasc,consensus,50.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0025677.jpg,Vascular lesions,6,unduplicated
+962,HAM_0003253,ISIC_0028998,nv,histo,35.0,male,back,data/HAM10000_images_part_1/ISIC_0028998.jpg,Melanocytic nevi,4,unduplicated
+963,HAM_0006447,ISIC_0031276,vasc,consensus,75.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031276.jpg,Vascular lesions,6,unduplicated
+964,HAM_0003479,ISIC_0030857,nv,follow_up,65.0,male,upper extremity,data/HAM10000_images_part_2/ISIC_0030857.jpg,Melanocytic nevi,4,unduplicated
+965,HAM_0004143,ISIC_0029031,bkl,histo,50.0,male,chest,data/HAM10000_images_part_1/ISIC_0029031.jpg,Benign keratosis-like lesions ,2,unduplicated
+966,HAM_0003959,ISIC_0029314,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029314.jpg,Melanocytic nevi,4,unduplicated
+967,HAM_0001963,ISIC_0025721,nv,follow_up,35.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025721.jpg,Melanocytic nevi,4,unduplicated
+968,HAM_0002353,ISIC_0028705,nv,follow_up,40.0,female,foot,data/HAM10000_images_part_1/ISIC_0028705.jpg,Melanocytic nevi,4,unduplicated
+969,HAM_0002699,ISIC_0029827,akiec,histo,60.0,male,back,data/HAM10000_images_part_2/ISIC_0029827.jpg,Actinic keratoses,0,unduplicated
+970,HAM_0001285,ISIC_0031553,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_2/ISIC_0031553.jpg,Melanocytic nevi,4,unduplicated
+971,HAM_0003279,ISIC_0030329,bkl,histo,70.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0030329.jpg,Benign keratosis-like lesions ,2,unduplicated
+972,HAM_0000013,ISIC_0024655,nv,follow_up,30.0,female,back,data/HAM10000_images_part_1/ISIC_0024655.jpg,Melanocytic nevi,4,unduplicated
+973,HAM_0001075,ISIC_0028743,nv,follow_up,30.0,female,back,data/HAM10000_images_part_1/ISIC_0028743.jpg,Melanocytic nevi,4,unduplicated
+974,HAM_0000811,ISIC_0028470,nv,follow_up,35.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028470.jpg,Melanocytic nevi,4,unduplicated
+975,HAM_0005595,ISIC_0029180,nv,follow_up,70.0,male,trunk,data/HAM10000_images_part_1/ISIC_0029180.jpg,Melanocytic nevi,4,unduplicated
+976,HAM_0004942,ISIC_0028202,nv,histo,75.0,male,back,data/HAM10000_images_part_1/ISIC_0028202.jpg,Melanocytic nevi,4,unduplicated
+977,HAM_0000045,ISIC_0032126,nv,histo,50.0,male,back,data/HAM10000_images_part_2/ISIC_0032126.jpg,Melanocytic nevi,4,unduplicated
+978,HAM_0003025,ISIC_0027440,nv,follow_up,35.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027440.jpg,Melanocytic nevi,4,unduplicated
+979,HAM_0005634,ISIC_0025944,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025944.jpg,Melanocytic nevi,4,unduplicated
+980,HAM_0003244,ISIC_0027368,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0027368.jpg,Melanocytic nevi,4,unduplicated
+981,HAM_0005270,ISIC_0032270,vasc,histo,70.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032270.jpg,Vascular lesions,6,unduplicated
+982,HAM_0005734,ISIC_0025048,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025048.jpg,Melanocytic nevi,4,unduplicated
+983,HAM_0005015,ISIC_0026355,nv,follow_up,60.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026355.jpg,Melanocytic nevi,4,unduplicated
+984,HAM_0001755,ISIC_0029393,nv,histo,25.0,male,trunk,data/HAM10000_images_part_2/ISIC_0029393.jpg,Melanocytic nevi,4,unduplicated
+985,HAM_0004324,ISIC_0029898,nv,histo,80.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0029898.jpg,Melanocytic nevi,4,unduplicated
+986,HAM_0005738,ISIC_0027683,nv,follow_up,55.0,female,trunk,data/HAM10000_images_part_1/ISIC_0027683.jpg,Melanocytic nevi,4,unduplicated
+987,HAM_0004787,ISIC_0029566,nv,histo,50.0,male,back,data/HAM10000_images_part_2/ISIC_0029566.jpg,Melanocytic nevi,4,unduplicated
+988,HAM_0002474,ISIC_0030658,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030658.jpg,Melanocytic nevi,4,unduplicated
+989,HAM_0003662,ISIC_0028757,nv,histo,75.0,female,back,data/HAM10000_images_part_1/ISIC_0028757.jpg,Melanocytic nevi,4,unduplicated
+990,HAM_0001797,ISIC_0031155,nv,follow_up,45.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0031155.jpg,Melanocytic nevi,4,unduplicated
+991,HAM_0002588,ISIC_0031452,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0031452.jpg,Melanocytic nevi,4,unduplicated
+992,HAM_0005473,ISIC_0026050,nv,follow_up,50.0,male,back,data/HAM10000_images_part_1/ISIC_0026050.jpg,Melanocytic nevi,4,unduplicated
+993,HAM_0003658,ISIC_0026379,nv,follow_up,45.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026379.jpg,Melanocytic nevi,4,unduplicated
+994,HAM_0003153,ISIC_0025565,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025565.jpg,Melanocytic nevi,4,unduplicated
+995,HAM_0001188,ISIC_0032162,nv,follow_up,35.0,female,abdomen,data/HAM10000_images_part_2/ISIC_0032162.jpg,Melanocytic nevi,4,unduplicated
+996,HAM_0004157,ISIC_0031610,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031610.jpg,Melanocytic nevi,4,unduplicated
+997,HAM_0006535,ISIC_0032069,nv,follow_up,45.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0032069.jpg,Melanocytic nevi,4,unduplicated
+998,HAM_0004344,ISIC_0032678,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0032678.jpg,Melanocytic nevi,4,unduplicated
+999,HAM_0003463,ISIC_0031388,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0031388.jpg,Melanocytic nevi,4,unduplicated
+1000,HAM_0000461,ISIC_0027750,nv,follow_up,30.0,female,abdomen,data/HAM10000_images_part_1/ISIC_0027750.jpg,Melanocytic nevi,4,unduplicated
+1001,HAM_0004692,ISIC_0030734,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030734.jpg,Melanocytic nevi,4,unduplicated
+1002,HAM_0006106,ISIC_0032295,nv,follow_up,45.0,female,neck,data/HAM10000_images_part_2/ISIC_0032295.jpg,Melanocytic nevi,4,unduplicated
+1003,HAM_0004361,ISIC_0030515,nv,follow_up,45.0,male,foot,data/HAM10000_images_part_2/ISIC_0030515.jpg,Melanocytic nevi,4,unduplicated
+1004,HAM_0005176,ISIC_0031117,nv,histo,70.0,male,back,data/HAM10000_images_part_2/ISIC_0031117.jpg,Melanocytic nevi,4,unduplicated
+1005,HAM_0004147,ISIC_0031712,bcc,histo,75.0,male,back,data/HAM10000_images_part_2/ISIC_0031712.jpg,Basal cell carcinoma,1,unduplicated
+1006,HAM_0000331,ISIC_0026944,nv,follow_up,75.0,male,trunk,data/HAM10000_images_part_1/ISIC_0026944.jpg,Melanocytic nevi,4,unduplicated
+1007,HAM_0003950,ISIC_0026474,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026474.jpg,Melanocytic nevi,4,unduplicated
+1008,HAM_0000309,ISIC_0034142,bkl,consensus,70.0,male,back,data/HAM10000_images_part_2/ISIC_0034142.jpg,Benign keratosis-like lesions ,2,unduplicated
+1009,HAM_0004205,ISIC_0033797,nv,consensus,40.0,female,unknown,data/HAM10000_images_part_2/ISIC_0033797.jpg,Melanocytic nevi,4,unduplicated
+1010,HAM_0002600,ISIC_0032588,nv,consensus,25.0,male,unknown,data/HAM10000_images_part_2/ISIC_0032588.jpg,Melanocytic nevi,4,unduplicated
+1011,HAM_0002873,ISIC_0026412,nv,follow_up,45.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0026412.jpg,Melanocytic nevi,4,unduplicated
+1012,HAM_0001591,ISIC_0032231,nv,follow_up,40.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0032231.jpg,Melanocytic nevi,4,unduplicated
+1013,HAM_0000905,ISIC_0026338,nv,follow_up,65.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026338.jpg,Melanocytic nevi,4,unduplicated
+1014,HAM_0007044,ISIC_0024501,nv,follow_up,5.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0024501.jpg,Melanocytic nevi,4,unduplicated
+1015,HAM_0001147,ISIC_0033375,nv,consensus,51.0,unknown,unknown,data/HAM10000_images_part_2/ISIC_0033375.jpg,Melanocytic nevi,4,unduplicated
+1016,HAM_0003391,ISIC_0030025,nv,follow_up,50.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030025.jpg,Melanocytic nevi,4,unduplicated
+1017,HAM_0006888,ISIC_0026146,nv,follow_up,65.0,male,back,data/HAM10000_images_part_1/ISIC_0026146.jpg,Melanocytic nevi,4,unduplicated
+1018,HAM_0005244,ISIC_0030473,nv,histo,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030473.jpg,Melanocytic nevi,4,unduplicated
+1019,HAM_0007095,ISIC_0030374,nv,follow_up,60.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030374.jpg,Melanocytic nevi,4,unduplicated
+1020,HAM_0002550,ISIC_0027682,nv,follow_up,35.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0027682.jpg,Melanocytic nevi,4,unduplicated
+1021,HAM_0002356,ISIC_0030889,nv,follow_up,35.0,male,trunk,data/HAM10000_images_part_2/ISIC_0030889.jpg,Melanocytic nevi,4,unduplicated
+1022,HAM_0006304,ISIC_0032406,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_2/ISIC_0032406.jpg,Melanocytic nevi,4,unduplicated
+1023,HAM_0000582,ISIC_0025885,bkl,histo,85.0,male,lower extremity,data/HAM10000_images_part_1/ISIC_0025885.jpg,Benign keratosis-like lesions ,2,unduplicated
+1024,HAM_0004096,ISIC_0028541,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028541.jpg,Melanocytic nevi,4,unduplicated
+1025,HAM_0004094,ISIC_0031313,nv,follow_up,40.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031313.jpg,Melanocytic nevi,4,unduplicated
+1026,HAM_0000477,ISIC_0026292,nv,follow_up,45.0,female,trunk,data/HAM10000_images_part_1/ISIC_0026292.jpg,Melanocytic nevi,4,unduplicated
+1027,HAM_0005182,ISIC_0031288,nv,follow_up,35.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0031288.jpg,Melanocytic nevi,4,unduplicated
+1028,HAM_0000737,ISIC_0030353,nv,follow_up,55.0,male,abdomen,data/HAM10000_images_part_2/ISIC_0030353.jpg,Melanocytic nevi,4,unduplicated
+1029,HAM_0002592,ISIC_0029311,bkl,histo,60.0,female,lower extremity,data/HAM10000_images_part_2/ISIC_0029311.jpg,Benign keratosis-like lesions ,2,unduplicated
+1030,HAM_0002174,ISIC_0025138,nv,follow_up,40.0,male,trunk,data/HAM10000_images_part_1/ISIC_0025138.jpg,Melanocytic nevi,4,unduplicated
+1031,HAM_0003888,ISIC_0028672,nv,follow_up,50.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028672.jpg,Melanocytic nevi,4,unduplicated
+1032,HAM_0003275,ISIC_0032116,bkl,histo,75.0,female,chest,data/HAM10000_images_part_2/ISIC_0032116.jpg,Benign keratosis-like lesions ,2,unduplicated
+1033,HAM_0005503,ISIC_0029692,nv,follow_up,50.0,female,back,data/HAM10000_images_part_2/ISIC_0029692.jpg,Melanocytic nevi,4,unduplicated
+1034,HAM_0004261,ISIC_0027075,nv,follow_up,40.0,male,upper extremity,data/HAM10000_images_part_1/ISIC_0027075.jpg,Melanocytic nevi,4,unduplicated
+1035,HAM_0001152,ISIC_0030133,akiec,histo,65.0,male,face,data/HAM10000_images_part_2/ISIC_0030133.jpg,Actinic keratoses,0,unduplicated
+1036,HAM_0005065,ISIC_0031256,nv,follow_up,30.0,male,lower extremity,data/HAM10000_images_part_2/ISIC_0031256.jpg,Melanocytic nevi,4,unduplicated
+1037,HAM_0002868,ISIC_0031998,nv,follow_up,50.0,female,upper extremity,data/HAM10000_images_part_2/ISIC_0031998.jpg,Melanocytic nevi,4,unduplicated
+1038,HAM_0000800,ISIC_0028852,nv,follow_up,20.0,male,abdomen,data/HAM10000_images_part_1/ISIC_0028852.jpg,Melanocytic nevi,4,unduplicated
+1039,HAM_0005733,ISIC_0030434,nv,histo,25.0,female,back,data/HAM10000_images_part_2/ISIC_0030434.jpg,Melanocytic nevi,4,unduplicated
+1040,HAM_0002904,ISIC_0027213,nv,histo,65.0,male,trunk,data/HAM10000_images_part_1/ISIC_0027213.jpg,Melanocytic nevi,4,unduplicated
+1041,HAM_0007608,ISIC_0028609,nv,follow_up,55.0,female,lower extremity,data/HAM10000_images_part_1/ISIC_0028609.jpg,Melanocytic nevi,4,unduplicated
+1042,HAM_0003840,ISIC_0027801,bkl,histo,55.0,female,face,data/HAM10000_images_part_1/ISIC_0027801.jpg,Benign keratosis-like lesions ,2,unduplicated
