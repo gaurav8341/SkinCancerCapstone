@@ -89,6 +89,11 @@ The CSV file has 7 columns which are
 
 > It states the locality on the body where the lesion is there.
 
+The images are of pixel size 600x450. All imaages are of same size.
+Below are some of the images in the dataset.
+
+![alt text](D:\Github\SkinCancerCapstone\report\img\Visualizations\rawimage.jpeg "Some of the Sample Images")
+
 ### Exploratory Visualization
 
 In the above dataset the images of Melanocytic Nevi have more than 60% of the images. Dermatofibroma and Vascular Lesions have just a 100s of images.
@@ -124,6 +129,26 @@ The Location of skin Lesions is concentrated in some parts of the body like back
 - Classification Model
 
 > - The above problem can be most efficintly solved by using Convolutional Neural Network, rather than other machine learning approach like SVM, Naive Bayes algorithm or Random Forest Trees. These models lack the complexity to handle the diverse data like images.
+
+> - The Convolutional Neural Networks has their own components like 
+
+>> - Convolution Layer
+>>> In the below image, the 5x5x1 input image, I is convolved with Kernel/Filter K of size 3x3x1 size. The Kernel K shifts 9 times performing matrix multiplication on the portion.
+>>> The objective of the convolution operation is to extract high level features from the input image. The initial Convolution Layers extract low level features such as edges, levels, etc. The later Convolution layers extract more complex patterns.
+
+![alt text](D:\Github\SkinCancerCapstone\report\img\Convolution.gif "Convolution Layer")
+
+>> - Pooling Layer
+>>> The pooling layer is responsible for reducing the size of features. This is to decrease the needed the computational power to process the data through dimentionality reduction.
+>>> This operation is done through either max pooling or average pooling. Max pooling returns the mnaximum value from portion of convolved features. The Average Pooling computes and returns the average of the portion of convolved features.
+
+![alt text](D:\Github\SkinCancerCapstone\report\img\pooling.jpg "Pooling Layer")
+
+>> - Fully Connected Layer
+>>> The actual job of classification is done through the fully connected layer at the end of the model architecture.The Fully-Connected layer is learning a possibly non-linear function in that space. For the operation into Fully Connected  layer, that image is needed to be flattened into a vector. The model classifies these images using SoftMax activation at the final layer.
+
+![alt text](D:\Github\SkinCancerCapstone\report\img\Fully-connected.jpeg "Fully connected Layer")
+
 > - When we use our own custom trained CNN models, they also have their own set of problems as the deep CNN models need lots of computational power for the training of these models.
 > - To circumvent these problems, the best approach is using transfer learning approach.
 By using the models trained on diverse dataset like ImageNet, we can get very good performence which we can again enhance by training the pretrained model on the task specific dataset.
@@ -352,11 +377,11 @@ The model after training for 25 epochs, gave validation accuracy of 84% and vali
 
 The below graph of accuracy tells us about accuracy over epochs
 
-![alt text](D:\Github\SkinCancerCapstone\report\img\Visualizations\accuracy-densenet121.png "Accuracy over Epochs")
+![alt text](D:\Github\SkinCancerCapstone\report\img\Visualizations\accuracy-densenet.png "Accuracy over Epochs")
 
 Below is the graph of loss over epochs
 
-![alt text](D:\Github\SkinCancerCapstone\report\img\Visualizations\loss-densenet121.png "Loss over Epochs")
+![alt text](D:\Github\SkinCancerCapstone\report\img\Visualizations\loss-densenet.png "Loss over Epochs")
 
 As seen in the above twor graphs, the graph is flattening out after some number of epochs and then again decreasing slightly, that is because of the Learning Rate scheduler. Using and experimenting with the LRscheduler can give us better results.
 
